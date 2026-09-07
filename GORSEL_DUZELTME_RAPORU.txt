@@ -1,0 +1,8 @@
+FI Teknoloji görsel düzeltme tamamlandı.
+- ESL 7 boyut: yeni premium FI demo ürün görselleri
+- GODEX EZ120: gerçek katalog görseli
+- UROVO / SUNMI / GSCAN: Veranet katalog görselleri
+- El terminali üst başlık taşması düzeltildi
+- Kart yükseklikleri ve ürün görselleri eşitlendi
+- DIBAL D-955: temsili ürün görseli
+- Yerel kırık dosya/link: 0

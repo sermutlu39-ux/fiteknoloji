@@ -1,0 +1,7 @@
+FI Teknoloji TAM EKRAN düzeltmesi
+- Ana sayfadaki gerçek sorun bulundu: index.html içinde aktif olarak max-width:1024px sabitlenmişti.
+- Bu sabit sınır kaldırıldı.
+- Ana görsel artık tarayıcı genişliğinin %100'ünü (100vw) kullanıyor.
+- Sağ/sol kenar boşlukları kaldırıldı.
+- Görsel oranı korunuyor.
+- Tıklanabilir hotspot alanları yüzde bazlı olduğu için görselle birlikte ölçeklenmeye devam ediyor.

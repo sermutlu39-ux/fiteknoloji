@@ -1,0 +1,5 @@
+FI Teknoloji ESL görsel güncellemesi:
+- Beyaz kutu/demo çizim ESL görselleri kaldırıldı.
+- 1.54, 2.13, 2.66, 2.90, 4.20, 5.80 ve 7.50 kartları raf üzerinde gerçek ürün fotoğrafı görünümüne çevrildi.
+- Görseller kartı tam dolduracak şekilde düzenlendi.
+- Site tasarımı ve diğer sayfalar değiştirilmedi.

@@ -1,0 +1,8 @@
+FI Teknoloji - YAYINDAKİ GÖRÜNÜME GÖRE FINAL
+- Ana sayfa tarayıcı genişliğine %100 oturuyor.
+- 100vw kaynaklı fazla yakınlaşma/taşma etkisi kaldırıldı.
+- Görsel oranı bozulmuyor.
+- Sağ/sol yapay boşluk bırakılmıyor.
+- Görsel çözünürlüğü: 1024 x 1536px.
+- Menü/hotspot alanları görselle birlikte aynı oranda ölçekleniyor.
+- Amaç: şu an yayındaki sitenin masaüstü yakınlığı ve çözünürlük hissini korumak.

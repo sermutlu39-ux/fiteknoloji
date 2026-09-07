@@ -1,0 +1,8 @@
+FI TEKNOLOJİ TÜM ÜRÜNLER FINAL
+- El terminalleri / Mobil POS: tamamlandı.
+- Barkod & etiket yazıcıları: tamamlandı.
+- ESL ürün ailesi: tamamlandı.
+- Elektronik terazi: DIBAL D-955 Flat / D-900 Serisi eklendi.
+- HKS, entegrasyon, aksesuar, iletişim ve SEO sayfaları mevcut.
+- Yerel kırık link: 0
+- Bundan sonraki adım: canlı siteye yükleme/yayın.

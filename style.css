@@ -1,0 +1,230 @@
+:root{--bg:#031a32;--panel:#062745;--cyan:#12c8ff;--blue:#0677ff;--text:#f7fbff;--muted:#b6c9db;--line:#0e527b}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:linear-gradient(180deg,#021425,#06213b 55%,#03182d);color:var(--text);font-family:Arial,Helvetica,sans-serif}a{color:inherit;text-decoration:none}.wrap{width:min(1180px,94%);margin:auto}header{position:sticky;top:0;z-index:50;background:rgba(2,20,37,.96);border-bottom:1px solid #0b527d}.nav{height:78px;display:flex;align-items:center;gap:24px}.brand{display:flex;align-items:center;gap:12px;margin-right:auto}.brand img{width:54px;height:54px;object-fit:contain}.brand strong{font-size:24px}.brand small{display:block;color:var(--cyan);font-size:9px;letter-spacing:1.6px}nav{display:flex;gap:21px;align-items:center;font-size:14px}.cta,.button.primary{background:linear-gradient(135deg,var(--blue),var(--cyan));padding:12px 18px;border-radius:14px;font-weight:700}.hero{padding:74px 0 42px}.eyebrow{color:var(--cyan);font-size:13px;letter-spacing:2px;font-weight:700}h1{font-size:clamp(38px,5vw,66px);line-height:1.02;margin:10px 0 18px;max-width:900px}h2{font-size:30px}.lead{font-size:18px;line-height:1.65;color:var(--muted);max-width:780px}.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{background:linear-gradient(180deg,#093154,#05223d);border:1px solid var(--line);border-radius:18px;padding:22px;min-height:180px}.card p{color:var(--muted);line-height:1.55}.tag{display:inline-block;padding:6px 10px;border-radius:999px;border:1px solid #12689a;color:#b9eaff;font-size:12px;margin:4px}.section{padding:38px 0}.back{display:inline-flex;color:var(--cyan);margin-bottom:18px}.buttons{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}.button{display:inline-block;border:1px solid #1181ba;border-radius:12px;padding:12px 16px;font-weight:700}.notice,.ok{padding:16px 18px;border-radius:14px;line-height:1.5}.notice{border:1px solid #73651a;background:#332d08;color:#ffe79a}.ok{border:1px solid #17795f;background:#07362d;color:#baf8e5}footer{border-top:1px solid #0b527d;margin-top:56px;padding:30px 0;color:#94abc0;font-size:13px}table{width:100%;border-collapse:collapse;background:#062745;border-radius:16px;overflow:hidden}th,td{padding:14px;border-bottom:1px solid #0d496d;text-align:left}th{color:#7edfff}@media(max-width:900px){nav{display:none}.grid{grid-template-columns:1fr 1fr}}@media(max-width:600px){.grid{grid-template-columns:1fr}.brand strong{font-size:20px}}
+.product-image{height:210px;background:#f7fbff;border-radius:14px;display:flex;align-items:center;justify-content:center;overflow:hidden;margin-bottom:18px;border:1px solid rgba(80,190,255,.22)}
+.product-image img{width:100%;height:100%;object-fit:contain;display:block}
+.card.product{display:flex;flex-direction:column;min-height:450px}
+.card.product .buttons{margin-top:auto}
+.page-title-fix{padding-top:18px}
+@media(max-width:600px){.product-image{height:190px}.card.product{min-height:0}}
+
+/* ESL visual correction */
+.product-image{
+  background:linear-gradient(180deg,#f7fbff,#edf5fa)!important;
+  border:1px solid rgba(71,183,238,.35)!important;
+}
+.product-image img{
+  object-fit:contain!important;
+  padding:10px;
+  background:transparent!important;
+}
+
+/* FINAL ESL visual sizing */
+.product-image{
+  height:250px!important;
+  padding:0!important;
+  display:flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+}
+.product-image img{
+  width:100%!important;
+  height:100%!important;
+  object-fit:contain!important;
+  padding:0!important;
+}
+.card.product{
+  min-height:470px!important;
+}
+@media(max-width:900px){
+  .product-image{height:230px!important}
+}
+@media(max-width:600px){
+  .product-image{height:210px!important}
+  .card.product{min-height:0!important}
+}
+
+/* FINAL: shelf-mounted ESL photography */
+.product-image{height:245px!important;background:#0a2a45!important;overflow:hidden!important}
+.product-image img{width:100%!important;height:100%!important;object-fit:cover!important;padding:0!important}
+
+/* === ESL RAF GÖRSELLERİ - KESİLMEDEN SON AYAR === */
+.esl-page .product-image,
+body .product-image{
+    width:100%;
+    height:auto !important;
+    aspect-ratio: 1.90 / 1 !important;
+    padding:0 !important;
+    overflow:hidden !important;
+    background:#071e31 !important;
+    border-radius:14px !important;
+}
+.esl-page .product-image img,
+body .product-image img{
+    width:100% !important;
+    height:100% !important;
+    object-fit:cover !important;
+    object-position:center center !important;
+    padding:0 !important;
+    margin:0 !important;
+    display:block !important;
+}
+@media(max-width:600px){
+    .esl-page .product-image,
+    body .product-image{height:auto !important;aspect-ratio:1.90/1 !important;}
+}
+
+/* USER-APPROVED ESL FINAL */
+.esl-page .product-image{
+  width:100%!important;
+  height:220px!important;
+  aspect-ratio:auto!important;
+  display:flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  overflow:hidden!important;
+  padding:0!important;
+  margin:0 0 18px 0!important;
+  background:#081f33!important;
+  border-radius:14px!important;
+}
+.esl-page .product-image img{
+  width:100%!important;
+  height:100%!important;
+  max-width:100%!important;
+  max-height:100%!important;
+  display:block!important;
+  object-fit:cover!important;
+  object-position:50% 50%!important;
+  padding:0!important;
+  margin:0!important;
+  transform:none!important;
+}
+.esl-page .grid{
+  align-items:stretch!important;
+}
+.esl-page .card.product{
+  overflow:hidden!important;
+}
+@media(max-width:600px){
+ .esl-page .product-image{height:200px!important}
+}
+
+/* =========================================================
+   FI TEKNOLOJİ - RESPONSIVE HOMEPAGE FINAL
+   Tasarımı değiştirmeden tam ekran uyum
+   ========================================================= */
+
+html,body{
+  width:100%;
+  max-width:100%;
+  overflow-x:hidden;
+}
+
+body{
+  margin:0;
+}
+
+/* Homepage layout should use the available desktop width */
+.homepage,
+.home-page,
+.home,
+main,
+.page,
+.site,
+.site-wrap,
+.page-wrap{
+  max-width:none;
+}
+
+/* If homepage is built around the approved hero image, let it scale fluidly */
+.homepage img,
+.home-page img,
+.home img,
+.hero img,
+.hero-image,
+.hero-image img,
+.homepage-image,
+.homepage-image img,
+img[src*="homepage"]{
+  max-width:100% !important;
+  height:auto !important;
+}
+
+/* Main page shell: large desktop but not edge-to-edge */
+body:not(.esl-page) .wrap{
+  width:min(94vw, 1440px) !important;
+  max-width:1440px !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+}
+
+/* Header should also scale with viewport */
+header .wrap,
+.site-header .wrap,
+.navbar .wrap{
+  width:min(94vw, 1440px) !important;
+  max-width:1440px !important;
+}
+
+/* If the homepage uses a single visual/canvas image, make it desktop-fluid */
+body:not(.esl-page) img[src="homepage.jpg"],
+body:not(.esl-page) img[src="./homepage.jpg"]{
+  width:min(94vw, 1440px) !important;
+  max-width:1440px !important;
+  height:auto !important;
+  display:block !important;
+  margin:0 auto !important;
+}
+
+/* Common fixed containers from earlier versions */
+body:not(.esl-page) [style*="width: 1024px"],
+body:not(.esl-page) [style*="width:1024px"],
+body:not(.esl-page) [style*="width: 1200px"],
+body:not(.esl-page) [style*="width:1200px"]{
+  width:min(94vw, 1440px) !important;
+  max-width:1440px !important;
+}
+
+/* Desktop typography/nav should not look miniature */
+@media(min-width:1400px){
+  header nav,
+  .nav,
+  .navbar{
+    font-size:15px;
+  }
+}
+
+/* Laptop */
+@media(max-width:1200px){
+  body:not(.esl-page) .wrap,
+  header .wrap,
+  .site-header .wrap,
+  .navbar .wrap{
+    width:94vw !important;
+  }
+}
+
+/* Tablet */
+@media(max-width:900px){
+  body:not(.esl-page) .wrap{
+    width:94vw !important;
+  }
+  body:not(.esl-page) img[src="homepage.jpg"],
+  body:not(.esl-page) img[src="./homepage.jpg"]{
+    width:100% !important;
+  }
+}
+
+/* Mobile */
+@media(max-width:600px){
+  body:not(.esl-page) .wrap,
+  header .wrap,
+  .site-header .wrap,
+  .navbar .wrap{
+    width:96vw !important;
+  }
+  body:not(.esl-page) img[src="homepage.jpg"],
+  body:not(.esl-page) img[src="./homepage.jpg"]{
+    width:100% !important;
+    max-width:100% !important;
+  }
+}

@@ -1,0 +1,7 @@
+FI TEKNOLOJİ - ESL FINAL BİTMİŞ SÜRÜM
+- 1.54 / 2.13 / 2.66 / 2.90 / 4.20 / 5.80 / 7.50 görselleri yeniden büyütüldü.
+- Gereksiz açık alan azaltıldı.
+- Büyük ekran boyutları görsel olarak daha büyük ölçeklendi.
+- Kart içi görsel yüksekliği optimize edildi.
+- Mobil görünüm için ayrı yükseklik ayarı eklendi.
+- Yerel kırık bağlantı/dosya: 0
