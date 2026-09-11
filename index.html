@@ -128,6 +128,23 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
 @media(max-width:900px){.responsive-top{display:block;aspect-ratio:auto;min-height:620px}.responsive-header{min-height:78px;flex-wrap:wrap;padding:12px 18px}.responsive-brand img{width:50px;height:50px}.responsive-nav{order:3;width:100%;justify-content:flex-start;overflow-x:auto;padding:2px 0 4px}.responsive-nav a{font-size:12px}.responsive-actions{margin-left:auto}.responsive-hero{min-height:542px;padding:32px 24px 42px;align-items:flex-end}.responsive-hero::before{background-image:linear-gradient(180deg,#031a32 0%,rgba(3,26,50,.94) 34%,rgba(3,26,50,.32) 64%,rgba(3,26,50,.8) 100%),url("assets/approved-hero-wide.jpg?v=20260911");background-position:center,bottom center;background-size:100% 100%,100% 58%}.hero-copy{width:100%;max-width:650px}.hero-title span{font-size:clamp(30px,7vw,48px)}.hero-title strong{font-size:clamp(25px,6vw,42px)}.hero-copy p{font-size:16px}.hero-benefits{font-size:14px}.hero-note,.hero-bottom-note{display:none}.legacy-rest>img{top:-44.270833vw}}
 @media(max-width:560px){.responsive-top{min-height:650px}.responsive-header{min-height:96px;padding:10px 14px}.responsive-brand{column-gap:7px}.brand-word{font-size:25px}.brand-tagline{font-size:7px}.top-offer{padding:9px 11px;font-size:11px}.top-search{display:none}.responsive-hero{min-height:554px;padding:30px 18px 34px}.hero-benefits{grid-template-columns:1fr;gap:7px}.hero-benefits li{font-size:13px}.hero-cta{font-size:15px;margin-top:20px}.rest-hot{border-radius:8px}}
 @media(prefers-reduced-motion:reduce){.responsive-hero::after{animation:none}.responsive-nav a,.top-offer,.hero-cta,.rest-hot{transition:none}}
+
+/* FI Teknoloji - %100 genişlik, tek katmanlı hero ve kontrollü ışıklar */
+.home-shell{position:relative;width:100%;max-width:none;margin:0;padding:0;isolation:isolate}
+.home-shell .page{width:100%;max-width:none;margin:0}
+.home-shell .site-content{width:100%;margin:0}
+.home-shell .site-inner{width:100%;max-width:none;box-sizing:border-box;margin:0 auto}
+.legacy-rest>img{top:-44.2708333333vw}
+.page::before{display:none}
+.hero-note,.hero-bottom-note{display:none!important}
+.responsive-brand{position:relative;overflow:hidden;isolation:isolate}
+.responsive-brand img{filter:drop-shadow(0 0 10px rgba(0,156,255,.38))}
+.responsive-brand::after{content:"";position:absolute;z-index:3;pointer-events:none;top:-55%;left:-45%;width:28%;height:210%;transform:skewX(-18deg);background:linear-gradient(100deg,transparent 0%,rgba(19,200,255,.05) 35%,rgba(118,236,255,.78) 50%,rgba(19,200,255,.05) 65%,transparent 100%);filter:blur(5px);mix-blend-mode:screen;animation:fiLogoSweep 7s ease-in-out infinite}
+@keyframes fiLogoSweep{0%,18%{left:-45%;opacity:0}34%{opacity:.95}64%{opacity:.45}82%,100%{left:125%;opacity:0}}
+.home-shell::before,.home-shell::after{content:"";position:absolute;z-index:60;top:0;bottom:0;width:1px;pointer-events:none;background:linear-gradient(180deg,transparent 0%,rgba(16,196,255,.2) 8%,rgba(35,213,255,.8) 50%,rgba(16,196,255,.2) 92%,transparent 100%);box-shadow:0 0 16px rgba(0,177,255,.5);mix-blend-mode:screen;animation:fiEdgeGlow 6s ease-in-out infinite}
+.home-shell::before{left:0}.home-shell::after{right:0}
+@keyframes fiEdgeGlow{0%,100%{opacity:.25}50%{opacity:.75}}
+@media(prefers-reduced-motion:reduce){.responsive-brand::after,.home-shell::before,.home-shell::after{animation:none}}
 </style><meta property="og:title" content="FI Teknoloji | Elektronik Raf Etiketleri ve Akıllı Perakende"><meta property="og:description" content="ESL, HKS, barkod, mobil terminal, terazi ve ERP/POS entegrasyon çözümleri."><meta property="og:url" content="https://fiteknoloji.com/"><meta property="og:type" content="website"><meta property="og:locale" content="tr_TR"><meta property="og:image" content="https://fiteknoloji.com/homepage.jpg?v=20260911-2"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="FI Teknoloji | Elektronik Raf Etiketleri"><meta name="twitter:description" content="ESL, HKS ve akıllı perakende çözümleri."><meta name="twitter:image" content="https://fiteknoloji.com/homepage.jpg?v=20260911-2"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://fiteknoloji.com/#organization","name":"FI Teknoloji Ltd. Şti.","url":"https://fiteknoloji.com/","logo":"https://fiteknoloji.com/fi-logo.png","email":"info@fiteknoloji.com","telephone":"+90 530 664 11 39","address":{"@type":"PostalAddress","addressLocality":"Babaeski","addressRegion":"Kırklareli","addressCountry":"TR"}},{"@type":"WebSite","@id":"https://fiteknoloji.com/#website","url":"https://fiteknoloji.com/","name":"FI Teknoloji","publisher":{"@id":"https://fiteknoloji.com/#organization"},"inLanguage":"tr-TR"},{"@type":"Service","@id":"https://fiteknoloji.com/#esl-service","name":"Elektronik Raf Etiketi ve Akıllı Perakende Çözümleri","provider":{"@id":"https://fiteknoloji.com/#organization"},"areaServed":{"@type":"Country","name":"Türkiye"},"serviceType":"Elektronik raf etiketi, HKS ürün künyesi ve ERP/POS entegrasyonu"}]}</script></head><body><div class="home-shell"><div class="page">
   <div class="responsive-top" aria-label="FI Teknoloji ana sayfa üst bölümü">
     <header class="responsive-header">
@@ -161,8 +178,6 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
         </ul>
         <a class="hero-cta" href="https://wa.me/905306641139?text=Merhaba%2C%20FI%20Teknoloji%20ürünleri%20hakkında%20teklif%20almak%20istiyorum." target="_blank" rel="noopener">HEMEN TEKLİF AL <span>→</span></a>
       </div>
-      <div class="hero-note"><strong>TEKNOLOJİ<br>İLE <em>DAHA FAZLASI</em><br>MÜMKÜN</strong></div>
-      <div class="hero-bottom-note">SMART RETAIL<br>BRIGHTER TOMORROW</div>
     </section>
   </div>
   <div class="legacy-rest" aria-label="FI Teknoloji faydaları ve ürün grupları">
