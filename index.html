@@ -20,22 +20,6 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
 .esl{left:2.0%;top:82.2%;width:12.7%;height:9.8%}.printer{left:15.3%;top:82.2%;width:12.7%;height:9.8%}.terminal{left:28.8%;top:82.2%;width:12.7%;height:9.8%}.scale{left:42.1%;top:82.2%;width:12.7%;height:9.8%}.software{left:55.6%;top:82.2%;width:14.0%;height:9.8%}.accessories{left:70.4%;top:82.2%;width:12.7%;height:9.8%}.hksCard{left:84%;top:82.2%;width:14%;height:9.8%}
 .allProducts{left:82%;top:79.2%;width:16%;height:2.6%}.footerCta{left:64%;top:95.2%;width:33%;height:2.4%}
 
-/* Ana sayfa üst bölüm slaytı */
-.heroSlider{position:absolute;left:0;right:0;top:4.6%;height:25%;z-index:4;overflow:hidden;background:#031a32}
-.heroSlide{position:absolute;inset:0;opacity:0;transition:opacity .9s ease;background-repeat:no-repeat;background-size:cover;background-position:center;pointer-events:none}
-.heroSlide.active{opacity:1}
-.heroSlide:nth-child(1){background-image:linear-gradient(90deg,rgba(2,15,29,.38),rgba(2,15,29,.02)),url('assets/hero-market-esl.webp')}
-.heroSlide:nth-child(2){background-image:linear-gradient(90deg,rgba(2,15,29,.30),rgba(2,15,29,.02)),url('assets/hero-manav-hks.webp')}
-.heroSlide:nth-child(3){background-image:linear-gradient(90deg,rgba(2,15,29,.25),rgba(2,15,29,.02)),url('assets/hero-manav-hks-v2.webp')}
-.sliderArrow{position:absolute;top:50%;z-index:8;transform:translateY(-50%);width:42px;height:42px;border:1px solid rgba(18,200,255,.65);border-radius:50%;background:rgba(3,26,50,.7);color:#fff;font-size:25px;cursor:pointer;pointer-events:auto}
-.sliderArrow:hover{background:rgba(6,119,255,.9)}
-.sliderPrev{left:18px}.sliderNext{right:18px}
-.sliderDots{position:absolute;left:50%;bottom:14px;z-index:8;display:flex;gap:9px;transform:translateX(-50%);pointer-events:auto}
-.sliderDot{width:11px;height:11px;padding:0;border:1px solid #fff;border-radius:50%;background:rgba(3,26,50,.65);cursor:pointer}
-.sliderDot.active{background:#12c8ff;border-color:#12c8ff}
-@media(max-width:700px){.sliderArrow{width:32px;height:32px;font-size:19px}.sliderPrev{left:7px}.sliderNext{right:7px}.sliderDots{bottom:7px}.sliderDot{width:8px;height:8px}}
-@media(prefers-reduced-motion:reduce){.heroSlide{transition:none}}
-
 /* FI Teknoloji - onay için %90 masaüstü görünüm */
 .page{
   position:relative;
@@ -57,14 +41,6 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
 }
 
 </style><meta property="og:title" content="FI Teknoloji | Elektronik Raf Etiketleri ve Akıllı Perakende"><meta property="og:description" content="ESL, HKS, barkod, mobil terminal, terazi ve ERP/POS entegrasyon çözümleri."><meta property="og:url" content="https://fiteknoloji.com/"><meta property="og:type" content="website"><meta property="og:locale" content="tr_TR"><meta property="og:image" content="https://fiteknoloji.com/homepage.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="FI Teknoloji | Elektronik Raf Etiketleri"><meta name="twitter:description" content="ESL, HKS ve akıllı perakende çözümleri."><meta name="twitter:image" content="https://fiteknoloji.com/homepage.jpg"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://fiteknoloji.com/#organization","name":"FI Teknoloji Ltd. Şti.","url":"https://fiteknoloji.com/","logo":"https://fiteknoloji.com/fi-logo.png","email":"info@fiteknoloji.com","telephone":"+90 530 664 11 39","address":{"@type":"PostalAddress","addressLocality":"Babaeski","addressRegion":"Kırklareli","addressCountry":"TR"}},{"@type":"WebSite","@id":"https://fiteknoloji.com/#website","url":"https://fiteknoloji.com/","name":"FI Teknoloji","publisher":{"@id":"https://fiteknoloji.com/#organization"},"inLanguage":"tr-TR"},{"@type":"Service","@id":"https://fiteknoloji.com/#esl-service","name":"Elektronik Raf Etiketi ve Akıllı Perakende Çözümleri","provider":{"@id":"https://fiteknoloji.com/#organization"},"areaServed":{"@type":"Country","name":"Türkiye"},"serviceType":"Elektronik raf etiketi, HKS ürün künyesi ve ERP/POS entegrasyonu"}]}</script></head><body><div class="page"><img src="homepage.jpg" alt="FI Teknoloji elektronik raf etiketleri ve akıllı perakende çözümleri">
-<div class="heroSlider" aria-label="FI Teknoloji çözümleri">
-  <div class="heroSlide active" role="img" aria-label="Elektronik raf etiketi çözümü"></div>
-  <div class="heroSlide" role="img" aria-label="HKS uyumlu akıllı ürün künyesi"></div>
-  <div class="heroSlide" role="img" aria-label="FI Teknoloji ürün ve entegrasyon çözümleri"></div>
-  <button class="sliderArrow sliderPrev" type="button" aria-label="Önceki slayt">‹</button>
-  <button class="sliderArrow sliderNext" type="button" aria-label="Sonraki slayt">›</button>
-  <div class="sliderDots" aria-label="Slayt seçimi"><button class="sliderDot active" type="button" aria-label="1. slayt"></button><button class="sliderDot" type="button" aria-label="2. slayt"></button><button class="sliderDot" type="button" aria-label="3. slayt"></button></div>
-</div>
 <a class="hot productsNav" href="urunler.html" aria-label="Ürünler"></a>
 <a class="hot solutionsNav" href="cozumler.html" aria-label="Çözümler"></a>
 <a class="hot contactNav" href="iletisim.html" aria-label="İletişim"></a>
@@ -76,6 +52,4 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
 <a class="hot terminal" href="el-terminalleri.html"></a><a class="hot scale" href="teraziler.html"></a>
 <a class="hot software" href="entegrasyon.html"></a><a class="hot accessories" href="aksesuarlar.html"></a><a class="hot hksCard" href="hks.html"></a>
 <a class="hot allProducts" href="urunler.html"></a><a class="hot footerCta" href="mailto:info@fiteknoloji.com?subject=Demo ve Teklif Talebi"></a>
-</div><script>
-(()=>{const slides=[...document.querySelectorAll('.heroSlide')],dots=[...document.querySelectorAll('.sliderDot')],slider=document.querySelector('.heroSlider');let current=0,timer;const show=n=>{current=(n+slides.length)%slides.length;slides.forEach((s,i)=>s.classList.toggle('active',i===current));dots.forEach((d,i)=>d.classList.toggle('active',i===current))};const play=()=>{if(!matchMedia('(prefers-reduced-motion: reduce)').matches)timer=setInterval(()=>show(current+1),5000)};const restart=()=>{clearInterval(timer);play()};document.querySelector('.sliderPrev').addEventListener('click',()=>{show(current-1);restart()});document.querySelector('.sliderNext').addEventListener('click',()=>{show(current+1);restart()});dots.forEach((d,i)=>d.addEventListener('click',()=>{show(i);restart()}));slider.addEventListener('mouseenter',()=>clearInterval(timer));slider.addEventListener('mouseleave',play);play()})();
-</script></body></html>
+</div></body></html>
