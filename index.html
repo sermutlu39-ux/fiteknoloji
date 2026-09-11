@@ -75,6 +75,37 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
 
 .sectorsNav,.aboutNav{z-index:100!important;pointer-events:auto!important;cursor:pointer!important}
 /* menu-click-fix */
+
+/* Bilgi ve sektör çözümleri */
+.site-content{background:linear-gradient(180deg,#031a32 0%,#061f3a 55%,#031a32 100%);color:#eef8ff}
+.site-section{border-top:1px solid rgba(37,190,255,.28)}
+.site-inner{max-width:1180px;margin:0 auto;padding:76px 20px}
+.site-kicker{display:inline-block;margin-bottom:12px;color:#19c7ff;font-size:13px;letter-spacing:.22em;font-weight:700}
+.site-title{margin:0;color:#fff;font-size:clamp(28px,3vw,44px);line-height:1.08}
+.site-lead{max-width:820px;margin:18px 0 0;color:#b9d4e5;font-size:18px;line-height:1.65}
+.info-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin-top:34px}
+.info-card{padding:26px;border:1px solid rgba(34,191,255,.28);border-radius:18px;background:rgba(4,35,64,.72);box-shadow:0 15px 45px rgba(0,0,0,.15)}
+.info-card h3{margin:0 0 10px;color:#fff;font-size:20px}
+.info-card p{margin:0;color:#b8d2e3;line-height:1.65;font-size:16px}
+.how-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;margin-top:34px}
+.how-step{position:relative;padding:24px 20px 22px;border-radius:16px;background:linear-gradient(150deg,rgba(0,139,224,.22),rgba(4,35,64,.72));border:1px solid rgba(34,191,255,.3)}
+.how-num{display:grid;place-items:center;width:38px;height:38px;border-radius:50%;margin-bottom:18px;background:#10aee9;color:#001b35;font-weight:800}
+.how-step h3{margin:0 0 9px;color:#fff;font-size:18px}
+.how-step p{margin:0;color:#b8d2e3;line-height:1.55;font-size:15px}
+.sector-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin-top:36px}
+.sector-card{overflow:hidden;border:1px solid rgba(34,191,255,.3);border-radius:18px;background:#062441;box-shadow:0 12px 35px rgba(0,0,0,.2);transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease}
+.sector-card:hover{transform:translateY(-5px);border-color:#20c6ff;box-shadow:0 18px 45px rgba(0,134,255,.2)}
+.sector-card img{display:block;width:100%;aspect-ratio:1/1;object-fit:cover}
+.sector-copy{padding:20px}
+.sector-copy h3{margin:0 0 9px;color:#fff;font-size:21px}
+.sector-copy p{margin:0;color:#b8d2e3;line-height:1.6;font-size:15px}
+.site-cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+.site-cta a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 22px;border-radius:999px;border:1px solid #17c5ff;color:#eafaff;text-decoration:none;font-weight:700}
+.site-cta a.primary{background:#078fe0;color:#fff;box-shadow:0 8px 24px rgba(0,144,255,.22)}
+@media(max-width:860px){.info-grid,.how-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.sector-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.site-inner{padding:58px 18px}}
+@media(max-width:560px){.info-grid,.how-grid,.sector-grid{grid-template-columns:1fr}.site-lead{font-size:16px}.site-inner{padding:48px 16px}.sector-card img{aspect-ratio:4/3}}
+@media(prefers-reduced-motion:reduce){.sector-card{transition:none}.sector-card:hover{transform:none}}
+
 </style><meta property="og:title" content="FI Teknoloji | Elektronik Raf Etiketleri ve Akıllı Perakende"><meta property="og:description" content="ESL, HKS, barkod, mobil terminal, terazi ve ERP/POS entegrasyon çözümleri."><meta property="og:url" content="https://fiteknoloji.com/"><meta property="og:type" content="website"><meta property="og:locale" content="tr_TR"><meta property="og:image" content="https://fiteknoloji.com/homepage.jpg?v=20260911-2"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="FI Teknoloji | Elektronik Raf Etiketleri"><meta name="twitter:description" content="ESL, HKS ve akıllı perakende çözümleri."><meta name="twitter:image" content="https://fiteknoloji.com/homepage.jpg?v=20260911-2"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://fiteknoloji.com/#organization","name":"FI Teknoloji Ltd. Şti.","url":"https://fiteknoloji.com/","logo":"https://fiteknoloji.com/fi-logo.png","email":"info@fiteknoloji.com","telephone":"+90 530 664 11 39","address":{"@type":"PostalAddress","addressLocality":"Babaeski","addressRegion":"Kırklareli","addressCountry":"TR"}},{"@type":"WebSite","@id":"https://fiteknoloji.com/#website","url":"https://fiteknoloji.com/","name":"FI Teknoloji","publisher":{"@id":"https://fiteknoloji.com/#organization"},"inLanguage":"tr-TR"},{"@type":"Service","@id":"https://fiteknoloji.com/#esl-service","name":"Elektronik Raf Etiketi ve Akıllı Perakende Çözümleri","provider":{"@id":"https://fiteknoloji.com/#organization"},"areaServed":{"@type":"Country","name":"Türkiye"},"serviceType":"Elektronik raf etiketi, HKS ürün künyesi ve ERP/POS entegrasyonu"}]}</script></head><body><div class="page"><img src="homepage.jpg?v=20260911-2" alt="FI Teknoloji elektronik raf etiketleri ve akıllı perakende çözümleri">
 <a class="hot homeNav" href="/" aria-label="Ana Sayfa" onclick="window.location.assign('/');return false;"></a>
 <a class="hot productsNav" href="urunler.html" aria-label="Ürünler"></a>
@@ -90,4 +121,47 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
 <a class="hot terminal" href="el-terminalleri.html"></a><a class="hot scale" href="teraziler.html"></a>
 <a class="hot software" href="entegrasyon.html"></a><a class="hot accessories" href="aksesuarlar.html"></a><a class="hot hksCard" href="hks.html"></a>
 <a class="hot allProducts" href="urunler.html"></a><a class="hot footerCta" href="https://wa.me/905306641139?text=Merhaba%2C%20FI%20Teknoloji%20ürünleri%20hakkında%20teklif%20almak%20istiyorum." target="_blank" rel="noopener"></a>
-</div></body></html>
+</div>
+<section class="site-content" aria-label="FI Teknoloji bilgilendirme ve sektör çözümleri">
+  <section class="site-section" id="esl-bilgi">
+    <div class="site-inner">
+      <span class="site-kicker">ESL / ELEKTRONİK RAF ETİKETİ</span>
+      <h2 class="site-title">Fiyat değişikliklerini rafta saniyeler içinde güncelleyin.</h2>
+      <p class="site-lead">FI Teknoloji ESL sistemi; ürün, fiyat ve kampanya bilgisini merkezden yönetir, elektronik raf etiketlerine güvenli biçimde aktarır. Manuel etiket değişimini azaltır, kasa–raf uyumunu güçlendirir ve mağaza ekiplerinin zamanını korur.</p>
+      <div class="info-grid">
+        <article class="info-card"><h3>Merkezi fiyat yönetimi</h3><p>Tek panelden birden fazla mağazadaki ürün ve fiyat bilgilerini yönetin; değişiklikleri seçtiğiniz reyonlara veya tüm mağazalara aktarın.</p></article>
+        <article class="info-card"><h3>Kampanya ve indirim</h3><p>İndirim oranı, eski fiyat, yeni fiyat ve kampanya tarihini elektronik etikette düzenli ve okunabilir şekilde gösterin.</p></article>
+        <article class="info-card"><h3>Doğruluk ve izlenebilirlik</h3><p>Fiyat hatalarını azaltın; barkod, QR kod, ürün bilgisi ve gerektiğinde HKS künyesini aynı etiket üzerinde sunun.</p></article>
+      </div>
+    </div>
+  </section>
+  <section class="site-section" id="nasil-calisir">
+    <div class="site-inner">
+      <span class="site-kicker">NASIL ÇALIŞIR?</span>
+      <h2 class="site-title">ERP’den rafa uzanan tek veri akışı</h2>
+      <p class="site-lead">Mevcut ERP/POS yapınız korunur; FI Teknoloji katmanı ürün ve fiyat bilgisini mağazadaki elektronik etiketlere ulaştırır.</p>
+      <div class="how-grid">
+        <article class="how-step"><span class="how-num">1</span><h3>Veri kaynağı</h3><p>ERP, POS veya mağaza yazılımındaki ürün, fiyat ve kampanya bilgisi alınır.</p></article>
+        <article class="how-step"><span class="how-num">2</span><h3>FI platformu</h3><p>Ürün bilgisi, yetki ve şablon kontrollerinden geçirilerek merkezi panelde hazırlanır.</p></article>
+        <article class="how-step"><span class="how-num">3</span><h3>Gateway iletişimi</h3><p>Güncelleme komutu mağazadaki gateway üzerinden ilgili etiket grubuna gönderilir.</p></article>
+        <article class="how-step"><span class="how-num">4</span><h3>Raf etiketi</h3><p>Yeni fiyat ve ürün bilgisi saniyeler içinde etikette görünür; ekip sahada doğrular.</p></article>
+      </div>
+      <div class="site-cta"><a class="primary" href="https://wa.me/905306641139?text=Merhaba%2C%20ESL%20sistemi%20hakkında%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">ESL hakkında bilgi al</a><a href="esl.html">ESL modellerini incele</a></div>
+    </div>
+  </section>
+  <section class="site-section" id="sektorel-cozumler">
+    <div class="site-inner">
+      <span class="site-kicker">SEKTÖREL ÇÖZÜMLER</span>
+      <h2 class="site-title">Etiketin bulunduğu her reyonda daha doğru yönetim</h2>
+      <p class="site-lead">Aşağıdaki örneklerde elektronik raf etiketlerinin farklı mağaza ve reyonlarda nasıl kullanılabileceğini görebilirsiniz.</p>
+      <div class="sector-grid">
+        <article class="sector-card"><img src="assets/sectors/market.jpg" alt="Market rafında elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Market</h3><p>Geniş ürün gamında fiyat ve kampanyaları merkezden güncelleyin; kasa ile raf bilgisini aynı tutun.</p></div></article>
+        <article class="sector-card"><img src="assets/sectors/manav.jpg" alt="Manav reyonunda HKS uyumlu elektronik etiket" loading="lazy"><div class="sector-copy"><h3>Manav & Taze Gıda</h3><p>Fiyatın yanında QR kod, üretici ve izlenebilirlik bilgilerini HKS uyumlu ürün künyesiyle gösterin.</p></div></article>
+        <article class="sector-card"><img src="assets/sectors/sarkuteri.jpg" alt="Şarküteri reyonunda elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Reyon & Şarküteri</h3><p>Kg fiyatı, ürün içeriği, kampanya ve günlük değişen bilgileri reyon üzerinde okunabilir tutun.</p></div></article>
+        <article class="sector-card"><img src="assets/sectors/petshop.jpg" alt="Petshop rafında elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Petshop</h3><p>Mama, aksesuar ve bakım ürünlerinde stok, fiyat ve kampanya değişikliklerini hızlıca yönetin.</p></div></article>
+        <article class="sector-card"><img src="assets/sectors/eczane.jpg" alt="Eczane rafında elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Eczane</h3><p>Ürün ve fiyat sunumunu düzenleyin; stok, lot ve SKT takibini mevcut yazılım entegrasyonuyla destekleyin.</p></div></article>
+        <article class="sector-card"><img src="assets/sectors/diger.jpg" alt="Elektronik ve yapı market rafında elektronik etiketler" loading="lazy"><div class="sector-copy"><h3>Diğer Sektörler</h3><p>Elektronik, yapı market, kozmetik ve çok ürünlü mağazalarda raf bilgisini tek merkezden yönetin.</p></div></article>
+      </div>
+    </div>
+  </section>
+</section></body></html>
