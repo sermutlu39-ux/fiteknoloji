@@ -40,6 +40,39 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
   .page{width:100%;margin:0;}
 }
 
+
+/* FI Teknoloji - sade ve güvenli hareket efektleri */
+.page{isolation:isolate}
+.page::before{
+  content:"";position:absolute;z-index:3;pointer-events:none;
+  top:4.5%;left:-32%;width:24%;height:27%;
+  background:linear-gradient(105deg,transparent 0%,rgba(0,194,255,.03) 28%,rgba(0,194,255,.20) 50%,rgba(0,104,255,.04) 72%,transparent 100%);
+  filter:blur(10px);transform:skewX(-14deg);
+  animation:fiLightSweep 9s ease-in-out infinite;
+}
+.page>img{animation:fiPageReveal .7s ease-out both}
+.hot{transition:transform .22s ease,background-color .22s ease,box-shadow .22s ease,outline-color .22s ease}
+.hot:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,174,255,.22)}
+.offer,.heroOffer,.footerCta{animation:fiCtaPulse 3.2s ease-in-out infinite}
+.esl:hover,.printer:hover,.terminal:hover,.scale:hover,.software:hover,.accessories:hover,.hksCard:hover{
+  background:rgba(0,174,255,.10);box-shadow:inset 0 0 0 2px rgba(26,198,255,.72),0 10px 28px rgba(0,100,220,.22)
+}
+@keyframes fiLightSweep{
+  0%,18%{left:-32%;opacity:0}
+  28%{opacity:.75}
+  72%{opacity:.45}
+  84%,100%{left:108%;opacity:0}
+}
+@keyframes fiCtaPulse{
+  0%,100%{box-shadow:0 0 0 0 rgba(0,190,255,0)}
+  50%{box-shadow:0 0 0 6px rgba(0,190,255,.15),0 0 22px rgba(0,128,255,.28)}
+}
+@keyframes fiPageReveal{from{opacity:.55;filter:brightness(.82)}to{opacity:1;filter:brightness(1)}}
+@media(prefers-reduced-motion:reduce){
+  .page::before,.page>img,.offer,.heroOffer,.footerCta{animation:none}
+  .hot{transition:none}
+}
+
 </style><meta property="og:title" content="FI Teknoloji | Elektronik Raf Etiketleri ve Akıllı Perakende"><meta property="og:description" content="ESL, HKS, barkod, mobil terminal, terazi ve ERP/POS entegrasyon çözümleri."><meta property="og:url" content="https://fiteknoloji.com/"><meta property="og:type" content="website"><meta property="og:locale" content="tr_TR"><meta property="og:image" content="https://fiteknoloji.com/homepage.jpg?v=20260911-2"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="FI Teknoloji | Elektronik Raf Etiketleri"><meta name="twitter:description" content="ESL, HKS ve akıllı perakende çözümleri."><meta name="twitter:image" content="https://fiteknoloji.com/homepage.jpg?v=20260911-2"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://fiteknoloji.com/#organization","name":"FI Teknoloji Ltd. Şti.","url":"https://fiteknoloji.com/","logo":"https://fiteknoloji.com/fi-logo.png","email":"info@fiteknoloji.com","telephone":"+90 530 664 11 39","address":{"@type":"PostalAddress","addressLocality":"Babaeski","addressRegion":"Kırklareli","addressCountry":"TR"}},{"@type":"WebSite","@id":"https://fiteknoloji.com/#website","url":"https://fiteknoloji.com/","name":"FI Teknoloji","publisher":{"@id":"https://fiteknoloji.com/#organization"},"inLanguage":"tr-TR"},{"@type":"Service","@id":"https://fiteknoloji.com/#esl-service","name":"Elektronik Raf Etiketi ve Akıllı Perakende Çözümleri","provider":{"@id":"https://fiteknoloji.com/#organization"},"areaServed":{"@type":"Country","name":"Türkiye"},"serviceType":"Elektronik raf etiketi, HKS ürün künyesi ve ERP/POS entegrasyonu"}]}</script></head><body><div class="page"><img src="homepage.jpg?v=20260911-2" alt="FI Teknoloji elektronik raf etiketleri ve akıllı perakende çözümleri">
 <a class="hot productsNav" href="urunler.html" aria-label="Ürünler"></a>
 <a class="hot solutionsNav" href="cozumler.html" aria-label="Çözümler"></a>
