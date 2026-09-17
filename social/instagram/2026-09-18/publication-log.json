@@ -17,7 +17,9 @@
         "https://fiteknoloji.com/social/instagram/2026-09-18/fi-instagram-05.jpg"
       ],
       "caption": "Rafınız için doğru teknoloji, doğru yerleşim.\n\nMarketler, akaryakıt istasyonu marketleri ve eczaneler için elektronik raf etiketi seçeneklerini inceleyin. Kompakt etiket, geniş ekran ve montaj seçimini rafınıza ve mevcut yazılımınıza göre birlikte değerlendirelim.\n\nİstanbul ve Trakya’daki işletmeler için ürün seçenekleri ve proje planlaması.\n\nÜrünler ve 16 sayfalık kataloglar profilimizdeki bağlantıda: fiteknoloji.com\nİletişim: info@fiteknoloji.com\n\nAI ile hazırlanmış temsili tanıtım.\n\n#FITeknoloji #Market #Akaryakıtİstasyonu #Trakya #Keşfet",
-      "status": "prepared"
+      "status": "blocked_write_actions_disabled",
+      "last_attempt_utc": "2026-09-17T22:08:37.176Z",
+      "error_code": "windsor_write_actions_disabled"
     },
     {
       "id": "carousel-products",
@@ -113,5 +115,14 @@
       "caption": "Tezgâhta düzenli etkileşim.\n\nTezgâh üstünde ürün sunumu ve bilgi ekranı için tablet standı seçeneklerini değerlendirin. Tablet ölçüsü, kullanım açısı ve uygulama içeriği seçimin temel parçalarıdır.\n\nÜrünler ve 16 sayfalık kataloglar için profilimizdeki site bağlantısını ziyaret edin: fiteknoloji.com\nİletişim: info@fiteknoloji.com\n\nAI ile hazırlanmış temsili tanıtım.\n\n#FITeknoloji #Kafe #TabletStandı #Kırklareli #Keşfetteyiz",
       "status": "prepared"
     }
-  ]
+  ],
+  "status": "blocked_write_actions_disabled",
+  "published_photo_count": 0,
+  "published_reel_count": 0,
+  "blocker": {
+    "code": "windsor_write_actions_disabled",
+    "setting_url": "https://onboard.windsor.ai/app/settings/account",
+    "setting": "Settings > API Access > Enable write actions for Claude, ChatGPT & API",
+    "detail": "Windsor has blocked the write action because write access is disabled. No Instagram post was published."
+  }
 }
