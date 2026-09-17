@@ -16,3 +16,7 @@ Görseller AI ile üretilmişse açıklamada “AI ile hazırlanmış temsili ta
 Doğrulanmamış fiyat, sertifika, başarı oranı, müşteri referansı veya her yazılımla uyumluluk iddiası ekleme. Eczane içeriklerini raf teknolojisiyle sınırla.
 Etiketler: her içerikte konuya uygun 5 etiket. #FITeknoloji yanında sektör/ürün ve bir bölge etiketi; #Keşfet ile #Keşfetteyiz dönüşümlü kullanılabilir. Sektörler #Market, #Akaryakıtİstasyonu, #Benzinlik, #Cafe, #Kafe, #Eczane. Bölgeler #İstanbul, #Tekirdağ, #Edirne, #Kırklareli, #Trakya. İlgisiz popüler etiketleri veya gerçek olmayan konum etiketlerini kullanma. Etiket popülerliği ve erişim artışı garantisi verme. Gerçek gönderi erişimlerini konu ve yayın zamanıyla birlikte değerlendirerek seçimi iyileştir.
 Kalıcı kayıt: her tarihin publication-log.json dosyasına içerik kimliği, durum, başarılı Instagram medya kimliği ve bağlantısını kaydet. Sonucu belirsiz bir yazma işlemini, son gönderileri kontrol etmeden tekrarlama.
+
+## 18 Eylül 2026 video biçimi güncellemesi
+
+Kullanıcı artık 25–30 saniyelik, Türkçe konuşan kurgusal AI sunucu, gerçekçi hareketli ürün sahneleri ve altyazı istiyor. Yalnızca fotoğraf kaydırma/yakınlaştırma videolarını yeni talebin karşılığı olarak üretme. İlk seriyle ilgili yayın durumunu tarih klasöründeki publication-log.json dosyasından kontrol et. Bekletilen eski videoları yeniden gönderme. Yeni üretim bağlantı kurulunca başlayacak. Günlük hedef 10 yeni görsel ve 10 yeni Reels; bu hedef için otomatik görev henüz kurulmadı.
