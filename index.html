@@ -60,6 +60,25 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
 .site-cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
 .site-cta a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 22px;border-radius:999px;border:1px solid #17c5ff;color:#eafaff;text-decoration:none;font-weight:700}
 .site-cta a.primary{background:#078fe0;color:#fff;box-shadow:0 8px 24px rgba(0,144,255,.22)}
+.quick-nav{position:sticky;top:0;z-index:30;border-top:1px solid rgba(25,199,255,.28);border-bottom:1px solid rgba(25,199,255,.28);background:rgba(3,26,50,.94);backdrop-filter:blur(14px);font-family:Arial,Helvetica,sans-serif}
+.quick-nav-inner{display:flex;align-items:center;gap:10px;width:90%;margin:0 auto;padding:12px 20px;box-sizing:border-box;overflow-x:auto;scrollbar-width:none}
+.quick-nav-inner::-webkit-scrollbar{display:none}.quick-nav strong{margin-right:auto;color:#fff;white-space:nowrap;font-size:14px}.quick-nav a{display:inline-flex;align-items:center;min-height:38px;padding:0 16px;border:1px solid rgba(31,197,255,.35);border-radius:999px;color:#dff7ff;text-decoration:none;font-weight:700;font-size:14px;white-space:nowrap}.quick-nav a:hover{border-color:#21c9ff;background:rgba(18,174,233,.15)}
+
+.demo-layout{display:grid;grid-template-columns:minmax(0,.9fr) minmax(320px,1.1fr);gap:34px;align-items:center;margin-top:38px}
+.demo-controls{display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:28px;border:1px solid rgba(34,191,255,.3);border-radius:20px;background:rgba(4,35,64,.76)}
+.demo-controls>.wide{grid-column:1/-1}
+.field{display:flex;flex-direction:column;gap:8px}.field.wide{grid-column:1/-1}.field label{color:#dff5ff;font-size:14px;font-weight:700}.field input,.field select{width:100%;min-height:48px;box-sizing:border-box;padding:0 14px;border:1px solid rgba(52,197,255,.36);border-radius:12px;outline:none;background:#031a32;color:#fff;font:inherit}.field input:focus,.field select:focus{border-color:#22c9ff;box-shadow:0 0 0 3px rgba(34,201,255,.12)}
+.action-button{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 22px;border:0;border-radius:999px;background:linear-gradient(90deg,#078fe0,#0879ff);color:#fff;font:inherit;font-weight:800;cursor:pointer;box-shadow:0 10px 28px rgba(0,137,255,.24)}.action-button:hover{filter:brightness(1.1)}
+.esl-stage{position:relative;display:grid;place-items:center;min-height:390px;padding:34px;border:1px solid rgba(34,191,255,.28);border-radius:24px;background:radial-gradient(circle at 50% 35%,rgba(15,153,221,.2),transparent 58%),#041d37;overflow:hidden}.esl-stage::before{content:"";position:absolute;inset:auto -8% 15%;height:18px;border-radius:999px;background:linear-gradient(90deg,#061221,#0b82d6,#05192e);box-shadow:0 14px 30px rgba(0,0,0,.45)}
+.esl-device{position:relative;z-index:1;width:min(100%,530px);padding:14px;border:8px solid #eef3f6;border-radius:18px;background:#cfd8dc;box-shadow:0 24px 60px rgba(0,0,0,.42)}
+.esl-screen{display:grid;grid-template-columns:1fr auto;gap:16px;min-height:215px;padding:22px;box-sizing:border-box;background:#fff;color:#07111c;border:2px solid #aeb8bd}.esl-name{grid-column:1/-1;font-size:clamp(23px,2vw,36px);font-weight:900;line-height:1.1}.esl-meta{color:#33424a;font-size:15px}.esl-old{text-decoration:line-through;font-size:21px;font-weight:700}.esl-new{align-self:end;color:#e00018;font-size:clamp(42px,4.4vw,76px);font-weight:900;line-height:.95;letter-spacing:-.04em}.esl-badge{display:grid;place-items:center;align-self:end;width:92px;height:92px;border-radius:12px;background:#ec1325;color:#fff;font-size:26px;font-weight:900;text-align:center}.esl-device.updating{animation:labelPulse .65s ease}.demo-note{margin:14px 0 0;color:#82a9bf;font-size:13px;line-height:1.5}
+@keyframes labelPulse{0%,100%{transform:scale(1)}45%{transform:scale(1.025);box-shadow:0 0 44px rgba(19,198,255,.48)}}
+
+.sector-action{display:inline-flex;margin-top:15px;color:#25c9ff;text-decoration:none;font-weight:800}.sector-action:hover{text-decoration:underline}
+.quote-layout{display:grid;grid-template-columns:minmax(0,.8fr) minmax(340px,1.2fr);gap:36px;align-items:start;margin-top:38px}.trust-list{display:grid;gap:14px;margin:28px 0 0;padding:0;list-style:none}.trust-list li{display:flex;gap:12px;align-items:flex-start;color:#c5deeb;line-height:1.5}.trust-list li::before{content:"✓";display:grid;place-items:center;flex:0 0 28px;width:28px;height:28px;border-radius:50%;background:#0daee8;color:#001a31;font-weight:900}
+.quote-form{display:grid;grid-template-columns:1fr 1fr;gap:16px;padding:28px;border:1px solid rgba(34,191,255,.34);border-radius:22px;background:linear-gradient(145deg,rgba(7,50,87,.98),rgba(4,29,55,.98));box-shadow:0 18px 48px rgba(0,0,0,.22)}.quote-form .action-button{grid-column:1/-1}.form-note{grid-column:1/-1;margin:0;color:#8fb4c8;font-size:13px;line-height:1.5}
+.quick-actions{position:fixed;right:18px;bottom:18px;z-index:60;display:flex;gap:10px;padding:8px;border:1px solid rgba(32,199,255,.3);border-radius:999px;background:rgba(3,26,50,.94);box-shadow:0 14px 40px rgba(0,0,0,.38);backdrop-filter:blur(14px);font-family:Arial,Helvetica,sans-serif}.quick-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 18px;border-radius:999px;color:#fff;text-decoration:none;font-size:14px;font-weight:800}.quick-actions .qa-whatsapp{background:#0aa968}.quick-actions .qa-offer{background:#087ff0}.quick-actions .qa-mail{border:1px solid rgba(255,255,255,.25)}
+.motion-ready .reveal{opacity:0;transform:translateY(22px);transition:opacity .65s ease,transform .65s ease}.motion-ready .reveal.is-visible{opacity:1;transform:none}
 
 .catalog-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin-top:34px}
 .catalog-card{display:flex;flex-direction:column;min-height:280px;box-sizing:border-box;padding:28px;border:1px solid rgba(34,191,255,.34);border-radius:20px;background:linear-gradient(145deg,#073257,#061f3a);box-shadow:0 15px 40px rgba(0,0,0,.18)}
@@ -70,9 +89,9 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
 .catalog-links a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:0 18px;border-radius:999px;text-decoration:none;font-weight:700;border:1px solid #17c5ff;color:#eafaff}
 .catalog-links a.primary{background:#078fe0;color:#fff}
 @media(max-width:860px){.catalog-grid{grid-template-columns:1fr}}
-@media(max-width:860px){.info-grid,.how-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.sector-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.site-inner{width:94%;padding:58px 18px}.site-lead{width:100%}}
-@media(max-width:560px){.info-grid,.how-grid,.sector-grid{grid-template-columns:1fr}.site-lead{font-size:16px}.site-inner{width:100%;padding:48px 16px}.sector-card img{aspect-ratio:4/3}}
-@media(prefers-reduced-motion:reduce){.sector-card{transition:none}.sector-card:hover{transform:none}}
+@media(max-width:860px){.catalog-grid{grid-template-columns:1fr}.info-grid,.how-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.sector-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.site-inner{width:94%;padding:58px 18px}.site-lead{width:100%}.quick-nav-inner{width:94%}.demo-layout,.quote-layout{grid-template-columns:1fr}.esl-stage{min-height:330px}}
+@media(max-width:560px){body{padding-bottom:72px}.info-grid,.how-grid,.sector-grid{grid-template-columns:1fr}.site-lead{font-size:16px}.site-inner{width:100%;padding:48px 16px}.sector-card img{aspect-ratio:4/3}.quick-nav strong{display:none}.quick-nav-inner{width:100%;padding:10px 12px}.demo-controls,.quote-form{grid-template-columns:1fr;padding:20px}.field.wide,.quote-form .action-button,.form-note{grid-column:1}.esl-stage{min-height:270px;padding:20px}.esl-device{padding:8px;border-width:6px}.esl-screen{min-height:178px;padding:15px}.esl-badge{width:70px;height:70px;font-size:20px}.quick-actions{left:8px;right:8px;bottom:8px;justify-content:stretch}.quick-actions a{flex:1;padding:0 10px}.quick-actions .qa-mail{display:none}}
+@media(prefers-reduced-motion:reduce){.sector-card,.reveal{transition:none!important}.sector-card:hover{transform:none}.esl-device.updating{animation:none}.motion-ready .reveal{opacity:1;transform:none}}
 
 
 
@@ -98,6 +117,9 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
 <a class="hot software" href="entegrasyon.html"></a><a class="hot accessories" href="aksesuarlar.html"></a><a class="hot hksCard" href="hks.html"></a>
 <a class="hot allProducts" href="urunler.html"></a><a class="hot footerCta" href="mailto:info@fiteknoloji.com?subject=Demo ve Teklif Talebi"></a>
 </div><section class="site-content" aria-label="FI Teknoloji bilgilendirme ve sektör çözümleri">
+  <nav class="quick-nav" aria-label="Sayfa içi hızlı geçiş">
+    <div class="quick-nav-inner"><strong>Hızlı incele</strong><a href="#esl-bilgi">ESL Avantajları</a><a href="#esl-demo">Canlı Etiket Demo</a><a href="#sektorel-cozumler">Sektörler</a><a href="#kataloglar">Kataloglar</a><a href="#hizli-teklif">Hızlı Teklif</a></div>
+  </nav>
   <section class="site-section" id="esl-bilgi">
     <div class="site-inner">
       <span class="site-kicker">ESL / ELEKTRONİK RAF ETİKETİ</span>
@@ -124,18 +146,37 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
       <div class="site-cta"><a class="primary" href="mailto:info@fiteknoloji.com?subject=ESL Sistemi Bilgi Talebi">E-posta ile bilgi al</a><a href="esl.html">ESL modellerini incele</a></div>
     </div>
   </section>
+  <section class="site-section" id="esl-demo">
+    <div class="site-inner">
+      <span class="site-kicker">CANLI ESL DENEYİMİ</span>
+      <h2 class="site-title">Fiyatı değiştirin, etiketi anında görün</h2>
+      <p class="site-lead">Örnek ürün ve fiyat bilgilerini girin. Elektronik raf etiketinin merkezden yapılan bir güncellemeyi rafta nasıl gösterdiğini deneyimleyin.</p>
+      <div class="demo-layout">
+        <form class="demo-controls reveal" id="eslDemoForm">
+          <div class="field wide"><label for="demoProduct">Ürün adı</label><input id="demoProduct" type="text" value="Premium Filtre Kahve 200 g" maxlength="42"></div>
+          <div class="field"><label for="demoOldPrice">Eski fiyat (₺)</label><input id="demoOldPrice" type="number" value="189.90" min="0" step="0.01"></div>
+          <div class="field"><label for="demoNewPrice">Yeni fiyat (₺)</label><input id="demoNewPrice" type="number" value="149.90" min="0" step="0.01"></div>
+          <button class="action-button wide" type="submit">Etiketi Güncelle</button>
+          <p class="demo-note wide">Bu alan tanıtım amaçlıdır. Gerçek sistemde fiyat bilgisi ERP, POS veya mağaza yazılımından otomatik aktarılabilir.</p>
+        </form>
+        <div class="esl-stage reveal" aria-live="polite">
+          <div class="esl-device" id="eslDevice"><div class="esl-screen"><div class="esl-name" id="eslName">Premium Filtre Kahve 200 g</div><div><div class="esl-meta">FI Teknoloji • ESL</div><div class="esl-old" id="eslOldPrice">₺189,90</div><div class="esl-new" id="eslNewPrice">₺149,90</div></div><div class="esl-badge" id="eslDiscount">%21<br><small>İNDİRİM</small></div></div></div>
+        </div>
+      </div>
+    </div>
+  </section>
   <section class="site-section" id="sektorel-cozumler">
     <div class="site-inner">
       <span class="site-kicker">SEKTÖREL ÇÖZÜMLER</span>
       <h2 class="site-title">Etiketin bulunduğu her reyonda daha doğru yönetim</h2>
       <p class="site-lead">Aşağıdaki örneklerde elektronik raf etiketlerinin farklı mağaza ve reyonlarda nasıl kullanılabileceğini görebilirsiniz.</p>
       <div class="sector-grid">
-        <article class="sector-card"><img src="assets/sectors/market.jpg" alt="Market rafında elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Market</h3><p>Geniş ürün gamında fiyat ve kampanyaları merkezden güncelleyin; kasa ile raf bilgisini aynı tutun.</p></div></article>
-        <article class="sector-card"><img src="assets/sectors/manav.jpg" alt="Manav reyonunda HKS uyumlu elektronik etiket" loading="lazy"><div class="sector-copy"><h3>Manav & Taze Gıda</h3><p>Fiyatın yanında QR kod, üretici ve izlenebilirlik bilgilerini HKS uyumlu ürün künyesiyle gösterin.</p></div></article>
-        <article class="sector-card"><img src="assets/sectors/sarkuteri.jpg" alt="Şarküteri reyonunda elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Reyon & Şarküteri</h3><p>Kg fiyatı, ürün içeriği, kampanya ve günlük değişen bilgileri reyon üzerinde okunabilir tutun.</p></div></article>
-        <article class="sector-card"><img src="assets/sectors/petshop.jpg" alt="Petshop rafında elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Petshop</h3><p>Mama, aksesuar ve bakım ürünlerinde stok, fiyat ve kampanya değişikliklerini hızlıca yönetin.</p></div></article>
-        <article class="sector-card"><img src="assets/sectors/eczane.jpg" alt="Eczane rafında elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Eczane</h3><p>Ürün ve fiyat sunumunu düzenleyin; stok, lot ve SKT takibini mevcut yazılım entegrasyonuyla destekleyin.</p></div></article>
-        <article class="sector-card"><img src="assets/sectors/diger.jpg" alt="Elektronik ve yapı market rafında elektronik etiketler" loading="lazy"><div class="sector-copy"><h3>Diğer Sektörler</h3><p>Elektronik, yapı market, kozmetik ve çok ürünlü mağazalarda raf bilgisini tek merkezden yönetin.</p></div></article>
+        <article class="sector-card reveal"><img src="assets/sectors/market.jpg" alt="Market rafında elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Market</h3><p>Geniş ürün gamında fiyat ve kampanyaları merkezden güncelleyin; kasa ile raf bilgisini aynı tutun.</p><a class="sector-action" href="#hizli-teklif" data-sector="Market">Market için bilgi al →</a></div></article>
+        <article class="sector-card reveal"><img src="assets/sectors/manav.jpg" alt="Manav reyonunda HKS uyumlu elektronik etiket" loading="lazy"><div class="sector-copy"><h3>Manav &amp; Taze Gıda</h3><p>Fiyatın yanında QR kod, üretici ve izlenebilirlik bilgilerini HKS uyumlu ürün künyesiyle gösterin.</p><a class="sector-action" href="#hizli-teklif" data-sector="Manav ve Taze Gıda">Manav için bilgi al →</a></div></article>
+        <article class="sector-card reveal"><img src="assets/sectors/sarkuteri.jpg" alt="Şarküteri reyonunda elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Reyon &amp; Şarküteri</h3><p>Kg fiyatı, ürün içeriği, kampanya ve günlük değişen bilgileri reyon üzerinde okunabilir tutun.</p><a class="sector-action" href="#hizli-teklif" data-sector="Reyon ve Şarküteri">Şarküteri için bilgi al →</a></div></article>
+        <article class="sector-card reveal"><img src="assets/sectors/petshop.jpg" alt="Petshop rafında elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Petshop</h3><p>Mama, aksesuar ve bakım ürünlerinde stok, fiyat ve kampanya değişikliklerini hızlıca yönetin.</p><a class="sector-action" href="#hizli-teklif" data-sector="Petshop">Petshop için bilgi al →</a></div></article>
+        <article class="sector-card reveal"><img src="assets/sectors/eczane.jpg" alt="Eczane rafında elektronik raf etiketleri" loading="lazy"><div class="sector-copy"><h3>Eczane</h3><p>Ürün ve fiyat sunumunu düzenleyin; stok, lot ve SKT takibini mevcut yazılım entegrasyonuyla destekleyin.</p><a class="sector-action" href="#hizli-teklif" data-sector="Eczane">Eczane için bilgi al →</a></div></article>
+        <article class="sector-card reveal"><img src="assets/sectors/diger.jpg" alt="Elektronik ve yapı market rafında elektronik etiketler" loading="lazy"><div class="sector-copy"><h3>Diğer Sektörler</h3><p>Elektronik, yapı market, kozmetik ve çok ürünlü mağazalarda raf bilgisini tek merkezden yönetin.</p><a class="sector-action" href="#hizli-teklif" data-sector="Diğer">Sektörünüzü anlatın →</a></div></article>
       </div>
     </div>
   </section>
@@ -167,5 +208,49 @@ html,body{margin:0;padding:0;width:100%;max-width:100%;overflow-x:hidden;backgro
       </div>
     </div>
   </section>
+  <section class="site-section" id="hizli-teklif">
+    <div class="site-inner">
+      <span class="site-kicker">HIZLI TEKLİF</span>
+      <h2 class="site-title">İhtiyacınızı yazın, birlikte planlayalım</h2>
+      <div class="quote-layout">
+        <div class="reveal"><p class="site-lead">Dört kısa bilgiyi doldurun. Talebiniz hazır mesaj olarak WhatsApp’ta açılsın; gönderim sizin onayınızla gerçekleşsin.</p><ul class="trust-list"><li>ERP/POS entegrasyonuna uygun çözüm planı</li><li>Etiket, gateway ve montaj ihtiyacının birlikte değerlendirilmesi</li><li>Türkiye genelinde kurulum ve uzaktan teknik destek</li><li>HKS uyumlu manav ve taze gıda çözümleri</li></ul></div>
+        <form class="quote-form reveal" id="quickQuoteForm">
+          <div class="field wide"><label for="companyName">Firma adı</label><input id="companyName" name="company" type="text" placeholder="Firma adınız" required maxlength="80"></div>
+          <div class="field"><label for="sectorSelect">Sektör</label><select id="sectorSelect" name="sector" required><option value="">Seçiniz</option><option>Market</option><option>Akaryakıt İstasyonu</option><option>Pastane ve Kafe</option><option>Manav ve Taze Gıda</option><option>Reyon ve Şarküteri</option><option>Petshop</option><option>Eczane</option><option>Diğer</option></select></div>
+          <div class="field"><label for="branchCount">Şube sayısı</label><input id="branchCount" name="branches" type="number" value="1" min="1" max="999" required></div>
+          <div class="field wide"><label for="labelCount">Yaklaşık etiket adedi</label><input id="labelCount" name="labels" type="number" placeholder="Örn. 500" min="1" max="999999" required></div>
+          <button class="action-button" type="submit">WhatsApp’tan Teklif İste</button>
+          <p class="form-note">Form bilgileri sitede saklanmaz. Butona bastığınızda mesaj WhatsApp’ta hazırlanır; gönderip göndermemeye siz karar verirsiniz.</p>
+        </form>
+      </div>
+    </div>
+  </section>
 </section>
-</body></html>
+<aside class="quick-actions" aria-label="Hızlı iletişim"><a class="qa-whatsapp" href="https://wa.me/905365733555?text=Merhaba%2C%20FI%20Teknoloji%20%C3%BCr%C3%BCnleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." target="_blank" rel="noopener">WhatsApp</a><a class="qa-mail" href="mailto:info@fiteknoloji.com?subject=FI Teknoloji Bilgi Talebi">E-posta</a><a class="qa-offer" href="#hizli-teklif">Hızlı Teklif</a></aside>
+<script>
+(()=>{
+  const money=value=>new Intl.NumberFormat('tr-TR',{minimumFractionDigits:2,maximumFractionDigits:2}).format(Number(value)||0);
+  const demoForm=document.getElementById('eslDemoForm');
+  demoForm.addEventListener('submit',event=>{
+    event.preventDefault();
+    const name=document.getElementById('demoProduct').value.trim()||'Ürün';
+    const oldPrice=Math.max(0,Number(document.getElementById('demoOldPrice').value)||0);
+    const newPrice=Math.max(0,Number(document.getElementById('demoNewPrice').value)||0);
+    const discount=oldPrice>0&&newPrice<oldPrice?Math.round((1-newPrice/oldPrice)*100):0;
+    document.getElementById('eslName').textContent=name;
+    document.getElementById('eslOldPrice').textContent='₺'+money(oldPrice);
+    document.getElementById('eslNewPrice').textContent='₺'+money(newPrice);
+    document.getElementById('eslDiscount').innerHTML=discount?'%'+discount+'<br><small>İNDİRİM</small>':'GÜNCEL<br><small>FİYAT</small>';
+    const device=document.getElementById('eslDevice');device.classList.remove('updating');void device.offsetWidth;device.classList.add('updating');
+  });
+  const sectorSelect=document.getElementById('sectorSelect');
+  document.querySelectorAll('[data-sector]').forEach(link=>link.addEventListener('click',()=>{sectorSelect.value=link.dataset.sector==='Manav ve Taze Gıda'?'Manav ve Taze Gıda':link.dataset.sector==='Reyon ve Şarküteri'?'Reyon ve Şarküteri':link.dataset.sector==='Diğer'?'Diğer':link.dataset.sector;}));
+  document.getElementById('quickQuoteForm').addEventListener('submit',event=>{
+    event.preventDefault();
+    const data=new FormData(event.currentTarget);
+    const message=['Merhaba FI Teknoloji, hızlı teklif almak istiyorum.','Firma: '+data.get('company'),'Sektör: '+data.get('sector'),'Şube sayısı: '+data.get('branches'),'Yaklaşık etiket adedi: '+data.get('labels')].join('\n');
+    window.open('https://wa.me/905365733555?text='+encodeURIComponent(message),'_blank','noopener');
+  });
+  if(!matchMedia('(prefers-reduced-motion: reduce)').matches){document.body.classList.add('motion-ready');const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('is-visible');observer.unobserve(entry.target);}}),{threshold:.12});document.querySelectorAll('.reveal').forEach(el=>observer.observe(el));}
+})();
+</script></body></html>
