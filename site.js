@@ -35,6 +35,11 @@
     quantity.placeholder = isLabel ? 'Örn. 500' : 'Örn. 2';
     quantity.value = '';
   });
+  const requestedProduct = new URLSearchParams(window.location.search).get('urun');
+  if (requestedProduct && Array.from(product.options).some(option => option.value === requestedProduct)) {
+    product.value = requestedProduct;
+    product.dispatchEvent(new Event('change'));
+  }
   const message = () => {
     const data = new FormData(form);
     return ['Merhaba FI Teknoloji, teklif almak istiyorum.', '',
