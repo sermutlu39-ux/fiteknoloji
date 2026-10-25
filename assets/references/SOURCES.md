@@ -16,3 +16,12 @@ their proportions and colors are preserved by the reference-card styles.
   Source: https://veranet.com.tr/wp-content/uploads/2026/06/veranet_logo-1-png-remove-bg.png
   Display scaling compensates for the original transparent margins without altering the asset.
 
+- Nevada Coffee's official transparent white logo
+  (2355 × 1661), verified on 24 October 2026 and served directly from
+  https://nevadacoffee.co/.
+  Source: https://nevadacoffee.co/panel/images/nevadamagazalogox.png
+  Display on a dark background.
+- EVE's official transparent pink logo (160 × 87), verified on
+  24 October 2026 and served directly from https://www.eveshop.com.tr/.
+  Source: https://www.eveshop.com.tr/cdn/shop/files/Logo_5178087a-de5e-410b-a87b-44a120bbcbf3.png?v=1747110148
+
