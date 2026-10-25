@@ -3929,27 +3929,6 @@
       "detailPage": "barkod-yazicilar.html"
     },
     {
-      "id": "dibal-d-955-flat",
-      "model": "DIBAL D-955 Flat",
-      "name": "DIBAL D-955 Flat",
-      "category": "scales",
-      "subcategory": "",
-      "summary": "Dokunmatik ekranlı elektronik terazi; etiketleme ve perakende tartım operasyonları için profesyonel çözüm.",
-      "specs": [
-        {
-          "label": "Ürün özellikleri",
-          "value": "Dokunmatik ekranlı elektronik terazi; etiketleme ve perakende tartım operasyonları için profesyonel çözüm."
-        }
-      ],
-      "notes": [],
-      "image": "assets/dibal_d955.jpg",
-      "imageWidth": 900,
-      "imageHeight": 560,
-      "imageAlt": "DIBAL D-955 Flat elektronik terazi",
-      "sourcePage": null,
-      "detailPage": "teraziler.html"
-    },
-    {
       "id": "ayakli-led-ekran",
       "model": null,
       "name": "Ayaklı LED ekran",

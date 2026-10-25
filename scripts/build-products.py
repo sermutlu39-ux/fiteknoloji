@@ -19,7 +19,7 @@ CATEGORIES = {
     'all': 'Tüm ürünler', 'esl': 'Elektronik raf etiketleri',
     'lcd': 'LCD raf ekranları', 'network': 'Gateway ve ağ cihazları',
     'accessories': 'Tutucular ve aksesuarlar', 'terminals': 'El terminalleri ve Mobil POS',
-    'printers': 'Barkod yazıcıları', 'scales': 'Elektronik teraziler',
+    'printers': 'Barkod yazıcıları',
     'led': 'LED ekranlar', 'signage': 'Menüboard ve signage',
 }
 SUBCATEGORIES = {
@@ -37,7 +37,7 @@ QUOTE_GROUP = {
     'esl':'Elektronik raf etiketi', 'lcd':'LCD menuboard ve signage',
     'network':'Gateway ve ağ cihazları', 'accessories':'Aksesuar ve tutucu',
     'terminals':'El terminali ve mobil POS', 'printers':'Barkod ve etiket yazıcı',
-    'scales':'Elektronik terazi', 'led':'P2.5 LED ekran',
+    'led':'P2.5 LED ekran',
     'signage':'LCD menuboard ve signage',
 }
 def esc(value):
