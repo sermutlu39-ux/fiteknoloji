@@ -40,6 +40,11 @@
     product.value = requestedProduct;
     product.dispatchEvent(new Event('change'));
   }
+  const requestedModel = new URLSearchParams(window.location.search).get('model');
+  const quoteNote = document.getElementById('quoteNote');
+  if (requestedModel && quoteNote && !quoteNote.value) {
+    quoteNote.value = 'İlgilendiğim model: ' + requestedModel.slice(0, 160);
+  }
   const message = () => {
     const data = new FormData(form);
     return ['Merhaba FI Teknoloji, teklif almak istiyorum.', '',

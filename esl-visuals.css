@@ -1,0 +1,40 @@
+/* Homepage product photography and interactive label preview. */
+.fi-home-products .fi-label-gallery{padding:18px;border:1px solid rgba(51,205,255,.35);border-radius:26px;background:linear-gradient(155deg,#0b3553,#051d33);box-shadow:0 24px 60px rgba(0,0,0,.24)}
+.fi-home-products .fi-label-gallery::before{display:none}
+.fi-gallery-heading{display:flex;align-items:center;gap:11px;padding:3px 2px 17px;color:#d0efff;font-size:11px;font-weight:800;letter-spacing:.09em}
+.fi-gallery-heading .live-dot{width:7px;height:7px;flex-basis:7px}
+.fi-gallery-heading a{margin-left:auto;color:#7ddfff;font-size:12px;letter-spacing:0;white-space:nowrap}
+.fi-gallery-grid{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:12px;align-items:stretch}
+.fi-gallery-grid figure{display:flex;min-width:0;flex-direction:column;margin:0;overflow:hidden;border:1px solid rgba(255,255,255,.16);border-radius:14px;background:#f9f9f8}
+.fi-gallery-grid .fi-label-feature{grid-row:span 2}
+.fi-gallery-grid a{display:flex;flex:1;min-height:0;align-items:center;justify-content:center}
+.fi-gallery-grid img{display:block;width:100%;height:170px;object-fit:contain}
+.fi-gallery-grid .fi-label-feature img{height:100%;min-height:300px;max-height:390px}
+.fi-gallery-grid figcaption{padding:10px 12px;background:#e9f0f2;color:#173d54;font-size:12px;font-weight:750;line-height:1.4}
+.fi-home-products .fi-image-note{margin:14px 0 0;color:#9cbacc;font-size:12px;line-height:1.55}
+.fi-home-products .product-tile .fi-product-photo{height:190px;padding:16px;object-fit:contain;background:#fafaf9}
+.fi-home-products .sector-card .fi-sector-product{height:auto;aspect-ratio:16/10;object-fit:contain;padding:14px;background:#fafaf9}
+.fi-home-products .sector-card .fi-sector-scene{height:auto;aspect-ratio:16/10;object-fit:cover;background:#fafaf9}
+.fi-home-products .fi-technical-cover{position:relative;display:flex;min-height:300px;flex-direction:column;align-items:center;justify-content:center;gap:24px;padding:27px;background:linear-gradient(145deg,#f5f8f9,#e4edf1);color:#123751}
+.fi-technical-cover .fi-cover-title{font-size:22px;font-weight:900;text-align:center;letter-spacing:.12em}
+.fi-technical-cover .fi-cover-title>span{display:block;margin-top:10px;font-size:12px;line-height:1.6;letter-spacing:.1em}
+.fi-home-products .fi-technical-cover img{width:220px;max-width:100%;height:110px;aspect-ratio:auto;object-fit:contain;box-shadow:none}
+.fi-technical-cover .fi-cover-foot{border:1px solid #96b6ca;border-radius:99px;padding:7px 12px;font-size:10px;font-weight:800;letter-spacing:.09em}
+/* Clear outer rim, white bezel, side barcode and status light match the label family. */
+.fi-home-products .esl-stage{padding:30px;min-height:370px}
+.fi-home-products .esl-device.fi-lanson-device{width:min(100%,560px);padding:26px 28px 24px 58px;border:5px solid rgba(211,220,225,.85);border-radius:15px;background:linear-gradient(135deg,#fff 0%,#f7f9f9 32%,#e9edef 100%);box-shadow:inset 0 0 0 3px #fbffff,inset 0 0 0 5px #aeb9be,0 18px 40px #0006}
+.fi-lanson-device .fi-label-led{position:absolute;right:13px;top:25px;width:7px;height:23px;border:1px solid #c0c5c1;border-radius:4px;background:linear-gradient(90deg,#a7ab96,#eeefdc,#9da390);box-shadow:0 0 0 4px #f1f4f3}
+.fi-lanson-device .fi-label-code{position:absolute;left:18px;top:38px;bottom:35px;width:19px;background:repeating-linear-gradient(to bottom,#222c2d 0 2px,transparent 2px 5px,#222c2d 5px 6px,transparent 6px 10px,#222c2d 10px 13px,transparent 13px 17px);opacity:.8}
+.fi-home-products .fi-lanson-device .esl-screen{grid-template-columns:minmax(0,1fr) auto;min-height:218px;gap:10px;padding:15px;border:5px solid #bdc8cb;background:#f6f5ee}
+.fi-home-products .fi-lanson-device .esl-name{padding-bottom:9px;border-bottom:3px solid #b41125;font-size:clamp(17px,1.6vw,25px);line-height:1.15;overflow-wrap:anywhere}
+.fi-home-products .fi-lanson-device .esl-meta{font-size:10px;line-height:1.5}
+.fi-home-products .fi-lanson-device .esl-old{margin-top:6px;font-size:17px}
+.fi-home-products .fi-lanson-device .esl-new{margin-top:7px;font-size:clamp(29px,3.1vw,47px);white-space:nowrap}
+.fi-home-products .fi-lanson-device .esl-badge{width:64px;height:66px;border-radius:0;font-size:19px}
+.fi-home-products .fi-lanson-device .esl-badge small{font-size:10px}
+@media(min-width:1051px){.fi-home-products .hero-grid{grid-template-columns:minmax(0,1fr) minmax(480px,1.1fr);gap:40px}}
+@media(max-width:1050px){.fi-home-products .fi-label-gallery{width:100%;max-width:740px}.fi-gallery-grid{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr)}.fi-gallery-grid img{height:180px}.fi-home-products .fi-lanson-device .esl-new{font-size:45px}}
+@media(max-width:860px){.fi-home-products .fi-technical-cover{min-height:260px;padding:20px}.fi-home-products .fi-technical-cover img{height:80px}}
+@media(max-width:600px){.fi-home-products .fi-label-gallery{padding:12px;border-radius:20px}.fi-gallery-grid{gap:8px}.fi-gallery-grid img{height:145px}.fi-gallery-grid .fi-label-feature img{min-height:240px;max-height:330px}.fi-gallery-grid figcaption{padding:8px 9px;font-size:11px}.fi-gallery-heading{gap:8px;font-size:9px;letter-spacing:.05em}.fi-gallery-heading a{font-size:11px}.fi-home-products .esl-stage{min-height:280px;padding:18px 12px}.fi-home-products .esl-device.fi-lanson-device{padding:23px 19px 20px 40px;border-width:4px;border-radius:12px}.fi-lanson-device .fi-label-code{left:13px;top:34px;bottom:29px;width:14px}.fi-lanson-device .fi-label-led{right:9px;top:23px;width:5px;height:18px}.fi-home-products .fi-lanson-device .esl-screen{padding:10px;border-width:4px;gap:8px;min-height:180px}.fi-home-products .fi-lanson-device .esl-name{font-size:19px}.fi-home-products .fi-lanson-device .esl-new{font-size:36px}.fi-home-products .fi-lanson-device .esl-old{font-size:15px}.fi-home-products .fi-lanson-device .esl-badge{width:50px;height:55px;font-size:15px}.fi-home-products .fi-lanson-device .esl-badge small{font-size:8px}}
+@media(max-width:400px){.fi-home-products .fi-label-gallery{padding:10px}.fi-gallery-grid img{height:119px}.fi-gallery-grid .fi-label-feature img{min-height:200px;max-height:280px}.fi-gallery-heading{font-size:8px}.fi-gallery-heading a{font-size:10px}.fi-home-products .fi-lanson-device .esl-new{font-size:29px}.fi-home-products .fi-lanson-device .esl-name{font-size:16px}.fi-home-products .fi-lanson-device .esl-meta{font-size:8px}.fi-home-products .fi-lanson-device .esl-badge{width:43px;height:48px;font-size:13px}}
+@media(max-width:360px){.fi-home-products .nav{gap:6px}.fi-home-products .nav .brand{gap:5px}.fi-home-products .nav .brand strong{font-size:15px}.fi-home-products .nav .cta,.fi-home-products .menu-toggle{padding-inline:8px}.fi-home-products .fi-lanson-device .esl-new{font-size:25px}}

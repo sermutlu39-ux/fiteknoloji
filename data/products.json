@@ -1,0 +1,4266 @@
+{
+  "updated": "2026-10-25",
+  "products": [
+    {
+      "id": "lsf130",
+      "model": "LSF130",
+      "name": "1,30 inç askılı ESL",
+      "category": "esl",
+      "subcategory": "hanging",
+      "sourcePage": 3,
+      "sourcePages": {
+        "original": 3,
+        "translated": 3
+      },
+      "sizeInch": 1.3,
+      "series": "Lanson",
+      "summary": "1,30 inç kompakt askılı ESL; 144 × 200 piksel ekran ve 7 renk LED göstergesi.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "1,30 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "51.7 × 26.4 × 6.7 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "19.4 × 27.0 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "15 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "144 × 200"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "188 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR1632 280 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "6 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Hayır"
+        },
+        {
+          "label": "NFC",
+          "value": "N/A (kaynakta mevcut değil)"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p03.jpeg",
+      "imageWidth": 220,
+      "imageHeight": 400,
+      "imageAlt": "LSF130 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "lsf154",
+      "model": "LSF154",
+      "name": "1,54 inç askılı ESL",
+      "category": "esl",
+      "subcategory": "hanging",
+      "sourcePage": 4,
+      "sourcePages": {
+        "original": 4,
+        "translated": 4
+      },
+      "sizeInch": 1.54,
+      "series": "Lanson",
+      "summary": "1,54 inç askılı ESL; 5,8 mm kalınlık, 200 × 200 piksel ekran ve değiştirilebilir CR2430 pil.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "1,54 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "83.0 × 36.5 × 5.8 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "27.0 × 27.0 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "22 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "200 × 200"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "188 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "1 × CR2430 300 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "6 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "N/A (kaynakta mevcut değil)"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p04.jpeg",
+      "imageWidth": 291,
+      "imageHeight": 593,
+      "imageAlt": "LSF154 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0154",
+      "model": "LS0154",
+      "name": "1,54 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "compact",
+      "sourcePage": 5,
+      "sourcePages": {
+        "original": 5,
+        "translated": 5
+      },
+      "sizeInch": 1.54,
+      "series": "Lanson",
+      "summary": "1,54 inç kompakt raf etiketi; 200 × 200 piksel ekran ve isteğe bağlı NFC.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "1,54 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "46.7 × 37.6 × 12.5 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "27.0 × 27.0 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "22 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "200 × 200"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "188 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "1 × CR2450 600 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "6 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p05.png",
+      "imageWidth": 275,
+      "imageHeight": 223,
+      "imageAlt": "LS0154 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0213",
+      "model": "LS0213",
+      "name": "2,13 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "compact",
+      "sourcePage": 6,
+      "sourcePages": {
+        "original": 6,
+        "translated": 6
+      },
+      "sizeInch": 2.13,
+      "series": "Lanson",
+      "summary": "2,13 inç raf etiketi; 250 × 122 piksel ekran, değiştirilebilir pil ve isteğe bağlı NFC.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "2,13 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "68.6 × 36.5 × 12.5 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "48.5 × 23.7 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "35 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "250 × 122"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "130 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450 1200 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/ls0213-rear.png",
+      "imageWidth": 218,
+      "imageHeight": 156,
+      "imageAlt": "LS0213 — katalogdaki arka görünüm teknik çizimi",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf",
+      "imageCaption": "Arka görünüm · teknik çizim"
+    },
+    {
+      "id": "ed0213c",
+      "model": "ED0213C",
+      "name": "2,13 inç dondurucu ESL",
+      "category": "esl",
+      "subcategory": "freezer",
+      "sourcePage": 7,
+      "sourcePages": {
+        "original": 7,
+        "translated": 7
+      },
+      "sizeInch": 2.13,
+      "series": "Endor",
+      "summary": "2,13 inç Endor dondurucu etiketi; siyah-beyaz ekran, IP68 ve -25 ile +35 °C çalışma aralığı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "2,13 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "65.3 × 35.8 × 13.1 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "49.2 × 29.2 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "Belirtilmemiş"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "250 × 122"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "130 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450 1200 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Hayır"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP68"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "-25 – 35 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 75 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "Belirtilmemiş"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p07.jpeg",
+      "imageWidth": 331,
+      "imageHeight": 210,
+      "imageAlt": "ED0213C — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0266",
+      "model": "LS0266",
+      "name": "2,66 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "standard",
+      "sourcePage": 8,
+      "sourcePages": {
+        "original": 8,
+        "translated": 8
+      },
+      "sizeInch": 2.66,
+      "series": "Lanson",
+      "summary": "2,66 inç raf etiketi; 296 × 152 piksel ekran ve üç veya dört renkli ekran seçenekleri.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "2,66 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "81.4 × 42.0 × 12.5 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "60.0 × 30.7 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "37 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "296 × 152"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "125 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450 1200 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p08.png",
+      "imageWidth": 366,
+      "imageHeight": 193,
+      "imageAlt": "LS0266 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0266c",
+      "model": "LS0266C",
+      "name": "2,66 inç dondurucu ESL",
+      "category": "esl",
+      "subcategory": "freezer",
+      "sourcePage": 9,
+      "sourcePages": {
+        "original": 9,
+        "translated": 9
+      },
+      "sizeInch": 2.66,
+      "series": "Lanson",
+      "summary": "2,66 inç dondurucu etiketi; siyah-beyaz ekran, IP68 ve -25 ile +35 °C çalışma aralığı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "2,66 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "81.4 × 42.0 × 12.5 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "60.0 × 30.7 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "37 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "296 × 152"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "125 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450 1200 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Hayır"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP68"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "-25 – 35 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 75 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p09.png",
+      "imageWidth": 362,
+      "imageHeight": 191,
+      "imageAlt": "LS0266C — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0290",
+      "model": "LS0290",
+      "name": "2,90 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "standard",
+      "sourcePage": 10,
+      "sourcePages": {
+        "original": 10,
+        "translated": 10
+      },
+      "sizeInch": 2.9,
+      "series": "Lanson",
+      "summary": "2,90 inç raf etiketi; 296 × 128 piksel ekran, isteğe bağlı NFC ve 7 renk LED göstergesi.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "2,90 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "88.4 × 42.5 × 12.5 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "66.9 × 29.0 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "45 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "296 × 128"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "112 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450 1200 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p10.png",
+      "imageWidth": 421,
+      "imageHeight": 206,
+      "imageAlt": "LS0290 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0350",
+      "model": "LS0350",
+      "name": "3,50 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "standard",
+      "sourcePage": 11,
+      "sourcePages": {
+        "original": 11,
+        "translated": 11
+      },
+      "sizeInch": 3.5,
+      "series": "Lanson",
+      "summary": "3,50 inç raf etiketi; 384 × 184 piksel ekran ve üç veya dört renkli ekran seçenekleri.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "3,50 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "101.1 × 50.6 × 12.5 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "79.7 × 38.2 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "52 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "384 × 184"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "122 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450 1200 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p11.png",
+      "imageWidth": 281,
+      "imageHeight": 145,
+      "imageAlt": "LS0350 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0350c",
+      "model": "LS0350C",
+      "name": "3,50 inç dondurucu ESL",
+      "category": "esl",
+      "subcategory": "freezer",
+      "sourcePage": 12,
+      "sourcePages": {
+        "original": 12,
+        "translated": 12
+      },
+      "sizeInch": 3.5,
+      "series": "Lanson",
+      "summary": "3,50 inç dondurucu etiketi; siyah-beyaz ekran, IP68 ve -25 ile +35 °C çalışma aralığı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "3,50 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "101.1 × 50.6 × 12.5 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "79.7 × 38.2 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "52 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "384 × 184"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "122 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450 1200 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Hayır"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP68"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "-25 – 35 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 75 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p12.png",
+      "imageWidth": 378,
+      "imageHeight": 194,
+      "imageAlt": "LS0350C — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0420",
+      "model": "LS0420",
+      "name": "4,20 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "standard",
+      "sourcePage": 13,
+      "sourcePages": {
+        "original": 13,
+        "translated": 13
+      },
+      "sizeInch": 4.2,
+      "series": "Lanson",
+      "summary": "4,20 inç raf etiketi; 400 × 300 piksel ekran ve 84,8 × 63,6 mm görüntü alanı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "4,20 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "96.5 × 86.5 × 13.1 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "84.8 × 63.6 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "90 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "400 × 300"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "120 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "1 × CR2450-3p 1800 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p13.png",
+      "imageWidth": 174,
+      "imageHeight": 160,
+      "imageAlt": "LS0420 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0420w",
+      "model": "LS0420W",
+      "name": "4,20 inç IP68 ESL",
+      "category": "esl",
+      "subcategory": "waterproof",
+      "sourcePage": 14,
+      "sourcePages": {
+        "original": 14,
+        "translated": 14
+      },
+      "sizeInch": 4.2,
+      "series": "Lanson",
+      "summary": "4,20 inç IP68 korumalı raf etiketi; renkli ekran seçenekleri ve 0 ile +40 °C çalışma aralığı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "4,20 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "96.5 × 86.5 × 13.1 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "84.8 × 63.6 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "93 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "400 × 300"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "120 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "1 × CR2450-3p 1800 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Hayır"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP68"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 75 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [
+        "Bu modelin çalışma sıcaklığı 0–40 °C olarak verilmiştir; dondurucu modeli değildir."
+      ],
+      "image": "assets/products/wintec/p14.png",
+      "imageWidth": 179,
+      "imageHeight": 161,
+      "imageAlt": "LS0420W — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0437",
+      "model": "LS0437",
+      "name": "4,37 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "standard",
+      "sourcePage": 15,
+      "sourcePages": {
+        "original": 15,
+        "translated": 15
+      },
+      "sizeInch": 4.37,
+      "series": "Lanson",
+      "summary": "4,37 inç geniş format raf etiketi; 480 × 176 piksel ekran ve 104,2 × 38,2 mm görüntü alanı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "4,37 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "129.0 × 53.0 × 13.1 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "104.2 × 38.2 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "85 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "480 × 176"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "117 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "1 × CR2450-4p 2400 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p15.png",
+      "imageWidth": 288,
+      "imageHeight": 122,
+      "imageAlt": "LS0437 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0579",
+      "model": "LS0579",
+      "name": "5,79 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "large",
+      "sourcePage": 16,
+      "sourcePages": {
+        "original": 16,
+        "translated": 16
+      },
+      "sizeInch": 5.79,
+      "series": "Lanson",
+      "summary": "5,79 inç geniş format raf etiketi; 792 × 272 piksel ekran ve 139,0 × 47,7 mm görüntü alanı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "5,79 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "165.0 × 64.0 × 14.6 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "139.0 × 47.7 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "120 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "792 × 272"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "144 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "1 × CR2450-4p 2400 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p16.png",
+      "imageWidth": 434,
+      "imageHeight": 170,
+      "imageAlt": "LS0579 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0583",
+      "model": "LS0583",
+      "name": "5,83 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "large",
+      "sourcePage": 17,
+      "sourcePages": {
+        "original": 17,
+        "translated": 17
+      },
+      "sizeInch": 5.83,
+      "series": "Lanson",
+      "summary": "5,83 inç büyük ekranlı raf etiketi; 648 × 480 piksel ekran ve 118,8 × 88,2 mm görüntü alanı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "5,83 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "132.4 × 113.2 × 14.8 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "118.8 × 88.2 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "120 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "648 × 480"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "138 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "1 × CR2450-4p 2400 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p17.png",
+      "imageWidth": 212,
+      "imageHeight": 178,
+      "imageAlt": "LS0583 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0750",
+      "model": "LS0750",
+      "name": "7,50 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "large",
+      "sourcePage": 18,
+      "sourcePages": {
+        "original": 18,
+        "translated": 18
+      },
+      "sizeInch": 7.5,
+      "series": "Lanson",
+      "summary": "7,50 inç büyük ekranlı raf etiketi; 800 × 480 piksel çözünürlük ve üç veya dört renkli ekran seçenekleri.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "7,50 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "178.6 × 125.4 × 16.0 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "163.2 × 97.9 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "198 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "800 × 480"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "124 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450-3p 3600 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p18.png",
+      "imageWidth": 285,
+      "imageHeight": 201,
+      "imageAlt": "LS0750 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls0970",
+      "model": "LS0970",
+      "name": "9,70 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "large",
+      "sourcePage": 19,
+      "sourcePages": {
+        "original": 19,
+        "translated": 19
+      },
+      "sizeInch": 9.7,
+      "series": "Lanson",
+      "summary": "9,70 inç büyük ekranlı raf etiketi; 960 × 672 piksel çözünürlük ve 201,6 × 141,1 mm görüntü alanı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "9,70 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "221.8 × 169.0 × 16.0 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "201.6 × 141.1 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "460 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "960 × 672"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "121 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450-3p 3600 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p19.png",
+      "imageWidth": 203,
+      "imageHeight": 265,
+      "imageAlt": "LS0970 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ls1330",
+      "model": "LS1330",
+      "name": "13,30 inç elektronik raf etiketi",
+      "category": "esl",
+      "subcategory": "large",
+      "sourcePage": 20,
+      "sourcePages": {
+        "original": 20,
+        "translated": 20
+      },
+      "sizeInch": 13.3,
+      "series": "Lanson",
+      "summary": "13,30 inç büyük ekranlı raf etiketi; 960 × 680 piksel çözünürlük ve 275,5 × 195,1 mm görüntü alanı.",
+      "specs": [
+        {
+          "label": "Ekran boyutu",
+          "value": "13,30 inç"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "296.0 × 230.5 × 16.0 mm"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "275.5 × 195.1 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "1020 g"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "960 × 680"
+        },
+        {
+          "label": "Piksel yoğunluğu",
+          "value": "88 DPI"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Siyah / beyaz / kırmızı veya Siyah / beyaz / kırmızı / sarı"
+        },
+        {
+          "label": "Pil",
+          "value": "2 × CR2450-3p 3600 mAh"
+        },
+        {
+          "label": "Pil ömrü",
+          "value": "10 yıl (günde 2 güncelleme; üretici verisi)"
+        },
+        {
+          "label": "Değiştirilebilir pil",
+          "value": "Evet"
+        },
+        {
+          "label": "NFC",
+          "value": "İsteğe bağlı"
+        },
+        {
+          "label": "LED göstergesi",
+          "value": "7 renk"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP54"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – 40 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "45 – 65 %RH"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 - 2481 MHz"
+        },
+        {
+          "label": "Sertifikalar",
+          "value": "CE, RoHS, FCC"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p20.png",
+      "imageWidth": 344,
+      "imageHeight": 269,
+      "imageAlt": "LS1330 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ds1010s",
+      "model": "DS1010S",
+      "name": "10,1 inç tek taraflı LCD",
+      "category": "lcd",
+      "subcategory": "single-sided",
+      "sourcePage": 21,
+      "sourcePages": {
+        "original": 21,
+        "translated": 21
+      },
+      "sizeInch": 10.1,
+      "summary": "Tek taraflı 10,1 inç IPS LCD; 800 × 1280 piksel, tam renkli ekran, Wi-Fi ve ray üzerinden güç beslemesi.",
+      "specs": [
+        {
+          "label": "Ekran yapısı",
+          "value": "Tek taraflı"
+        },
+        {
+          "label": "Gövde malzemesi",
+          "value": "PC + ABS plastik"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "159 × 243 × 12 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "390 g"
+        },
+        {
+          "label": "Panel tipi",
+          "value": "IPS"
+        },
+        {
+          "label": "Ekran boyutu",
+          "value": "10,1 inç"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "135,3 × 216,6 mm"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "800 × 1280 piksel"
+        },
+        {
+          "label": "Görüş açısı",
+          "value": "175°"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Tam renkli"
+        },
+        {
+          "label": "Kullanım ömrü",
+          "value": "5 yıldan fazla (üretici verisi)"
+        },
+        {
+          "label": "Güç beslemesi",
+          "value": "DC 12 V / 300 mA"
+        },
+        {
+          "label": "Besleme tipi",
+          "value": "Ray üzerinden güç beslemesi"
+        },
+        {
+          "label": "Depolama ve çalışma sıcaklığı",
+          "value": "-10 – +50 °C"
+        },
+        {
+          "label": "Ağ bağlantısı",
+          "value": "Wi-Fi"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2400 – 2480 MHz"
+        },
+        {
+          "label": "İletim mesafesi",
+          "value": "20 m (kaynak katalog değeri)"
+        },
+        {
+          "label": "İşlemci",
+          "value": "ARM9"
+        },
+        {
+          "label": "Bellek",
+          "value": "128 MB Flash + 64 MB RAM"
+        },
+        {
+          "label": "İşletim sistemi",
+          "value": "Linux"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p21.png",
+      "imageWidth": 550,
+      "imageHeight": 782,
+      "imageAlt": "DS1010S — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ds1010d",
+      "model": "DS1010D",
+      "name": "10,1 inç çift taraflı LCD",
+      "category": "lcd",
+      "subcategory": "double-sided",
+      "sourcePage": 22,
+      "sourcePages": {
+        "original": 22,
+        "translated": 22
+      },
+      "sizeInch": 10.1,
+      "summary": "Çift taraflı 10,1 inç IPS LCD; 800 × 1280 piksel, tam renkli ekran, Wi-Fi ve ray üzerinden güç beslemesi.",
+      "specs": [
+        {
+          "label": "Ekran yapısı",
+          "value": "Çift taraflı"
+        },
+        {
+          "label": "Gövde malzemesi",
+          "value": "PC + ABS plastik"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "159 × 243 × 12 mm"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "509 g"
+        },
+        {
+          "label": "Panel tipi",
+          "value": "IPS"
+        },
+        {
+          "label": "Ekran boyutu",
+          "value": "10,1 inç"
+        },
+        {
+          "label": "Ekran alanı",
+          "value": "135,3 × 216,6 mm"
+        },
+        {
+          "label": "Çözünürlük",
+          "value": "800 × 1280 piksel"
+        },
+        {
+          "label": "Görüş açısı",
+          "value": "175°"
+        },
+        {
+          "label": "Ekran renkleri",
+          "value": "Tam renkli"
+        },
+        {
+          "label": "Kullanım ömrü",
+          "value": "5 yıldan fazla (üretici verisi)"
+        },
+        {
+          "label": "Güç beslemesi",
+          "value": "DC 12 V / 500 mA"
+        },
+        {
+          "label": "Besleme tipi",
+          "value": "Ray üzerinden güç beslemesi"
+        },
+        {
+          "label": "Depolama ve çalışma sıcaklığı",
+          "value": "-10 – +50 °C"
+        },
+        {
+          "label": "Ağ bağlantısı",
+          "value": "Wi-Fi"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2400 – 2480 MHz"
+        },
+        {
+          "label": "İletim mesafesi",
+          "value": "20 m (kaynak katalog değeri)"
+        },
+        {
+          "label": "İşlemci",
+          "value": "ARM9"
+        },
+        {
+          "label": "Bellek",
+          "value": "128 MB Flash + 128 MB RAM"
+        },
+        {
+          "label": "İşletim sistemi",
+          "value": "Linux"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p22.png",
+      "imageWidth": 550,
+      "imageHeight": 782,
+      "imageAlt": "DS1010D — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "ap2400s-6-0",
+      "model": "AP2400S-6.0",
+      "name": "ESL gateway",
+      "category": "network",
+      "subcategory": "esl-gateway",
+      "sourcePage": 23,
+      "sourcePages": {
+        "original": 23,
+        "translated": 23
+      },
+      "summary": "ESL etiketler için Linux tabanlı erişim noktası; PoE veya DC 12 V besleme ve katalogda 25 m kapsama yarıçapı.",
+      "specs": [
+        {
+          "label": "Kullanım",
+          "value": "ESL erişim noktası / gateway"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "190 × 190 × 35 mm"
+        },
+        {
+          "label": "İşletim sistemi",
+          "value": "Linux"
+        },
+        {
+          "label": "Ağ protokolleri",
+          "value": "TCP/IP, HTTP, DHCP"
+        },
+        {
+          "label": "Güç beslemesi",
+          "value": "PoE veya DC 12 V / 2 A"
+        },
+        {
+          "label": "Çalışma frekansı",
+          "value": "2402 – 2481 MHz"
+        },
+        {
+          "label": "Kanal bant genişliği",
+          "value": "2 MHz"
+        },
+        {
+          "label": "İletim gücü",
+          "value": "0 – 23 dBm"
+        },
+        {
+          "label": "Anten",
+          "value": "4 portlu, her yöne kapsama sağlayan anten"
+        },
+        {
+          "label": "Kapsama yarıçapı",
+          "value": "25 m (kaynak katalog değeri)"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p23.jpeg",
+      "imageWidth": 829,
+      "imageHeight": 597,
+      "imageAlt": "AP2400S-6.0 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "nap-3825-x",
+      "model": "NAP-3825-X",
+      "name": "LCD erişim noktası",
+      "category": "network",
+      "subcategory": "lcd-access-point",
+      "sourcePage": 24,
+      "sourcePages": {
+        "original": 24,
+        "translated": 24
+      },
+      "summary": "LCD ekranlar için erişim noktası; gigabit Ethernet, USB, 802.3at/bt PoE ve dahili matris akıllı anten.",
+      "specs": [
+        {
+          "label": "Kullanım",
+          "value": "LCD ekran erişim noktası"
+        },
+        {
+          "label": "Ağırlık",
+          "value": "550 g"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "195 × 195 × 43 mm"
+        },
+        {
+          "label": "Ethernet portu",
+          "value": "1 × 10/100/1000 Mbps"
+        },
+        {
+          "label": "Konsol portu",
+          "value": "1 × RJ45"
+        },
+        {
+          "label": "USB portu",
+          "value": "1 × USB"
+        },
+        {
+          "label": "PoE standardı",
+          "value": "802.3at / 802.3bt"
+        },
+        {
+          "label": "Güç beslemesi",
+          "value": "12 V / 2 A"
+        },
+        {
+          "label": "İletim gücü",
+          "value": "≤20 dBm"
+        },
+        {
+          "label": "En küçük iletim gücü ayarı",
+          "value": "1 dBm"
+        },
+        {
+          "label": "İletim gücü ayar aralığı",
+          "value": "1 dBm ile ulusal mevzuatın izin verdiği en yüksek değer arası"
+        },
+        {
+          "label": "Güç tüketimi",
+          "value": "19,5 W (2,5 W USB dahil)"
+        },
+        {
+          "label": "Anten",
+          "value": "Dahili matris akıllı anten"
+        },
+        {
+          "label": "Depolama ve çalışma sıcaklığı",
+          "value": "-10 – +50 °C"
+        },
+        {
+          "label": "Depolama ve çalışma nemi",
+          "value": "%5 – %95, yoğuşmasız"
+        },
+        {
+          "label": "Koruma sınıfı",
+          "value": "IP41"
+        },
+        {
+          "label": "Ortalama arızalar arası süre (MTBF)",
+          "value": "250.000 saatten fazla"
+        },
+        {
+          "label": "Sıfırlama",
+          "value": "Desteklenir"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p24.jpeg",
+      "imageWidth": 898,
+      "imageHeight": 598,
+      "imageAlt": "NAP-3825-X — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "tl-r470p-ac",
+      "model": "TL-R470P-AC",
+      "name": "TP-Link PoE yönlendirici",
+      "category": "network",
+      "subcategory": "poe-router",
+      "sourcePage": 25,
+      "sourcePages": {
+        "original": 25,
+        "translated": 25
+      },
+      "summary": "1 WAN ve 4 LAN portlu PoE yönlendirici; port başına 30 W, toplam 57 W azami PoE çıkışı.",
+      "specs": [
+        {
+          "label": "Marka",
+          "value": "TP-Link"
+        },
+        {
+          "label": "Standartlar",
+          "value": "IEEE 802.3 / IEEE 802.3u"
+        },
+        {
+          "label": "WAN portu",
+          "value": "1 × 10/100 Mbps (Auto MDI/MDIX)"
+        },
+        {
+          "label": "LAN portları",
+          "value": "4 × 10/100 Mbps (Auto MDI/MDIX)"
+        },
+        {
+          "label": "LED göstergeleri",
+          "value": "SYS, WAN, LAN"
+        },
+        {
+          "label": "PoE standartları",
+          "value": "IEEE 802.3af / IEEE 802.3at"
+        },
+        {
+          "label": "Port başına azami PoE çıkışı",
+          "value": "30 W"
+        },
+        {
+          "label": "Toplam azami PoE çıkışı",
+          "value": "57 W"
+        },
+        {
+          "label": "Güç girişi",
+          "value": "AC 220 V / 50 Hz"
+        },
+        {
+          "label": "Güç çıkışı",
+          "value": "DC 53,5 V / 1,13 A"
+        },
+        {
+          "label": "Gövde ölçüleri",
+          "value": "100 × 98 × 25 mm"
+        },
+        {
+          "label": "Bakım özellikleri",
+          "value": "Cihaz yönetimi, internet ayarı ve kablosuz AP ayarı"
+        },
+        {
+          "label": "Gelişmiş özellikler",
+          "value": "İnternet ve kablosuz ayarları, AP ağ kontrolü, kullanıcı ve cihaz yönetimi"
+        },
+        {
+          "label": "Çalışma sıcaklığı",
+          "value": "0 – +40 °C"
+        },
+        {
+          "label": "Depolama sıcaklığı",
+          "value": "-40 – +70 °C"
+        },
+        {
+          "label": "Çalışma nemi",
+          "value": "%10 – %90, yoğuşmasız"
+        },
+        {
+          "label": "Depolama nemi",
+          "value": "%5 – %90, yoğuşmasız"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p25.jpeg",
+      "imageWidth": 426,
+      "imageHeight": 250,
+      "imageAlt": "TL-R470P-AC — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-dg007",
+      "model": "PJ-DG007",
+      "name": "Akrilik bantlı raf rayı",
+      "category": "accessories",
+      "subcategory": "rail",
+      "sourcePage": 26,
+      "sourcePages": {
+        "original": 26,
+        "translated": 26
+      },
+      "summary": "Düz raflar için akrilik bantlı, şeffaf ESL rayı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PVC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Raf tipi",
+          "value": "15–20 mm düz raf"
+        },
+        {
+          "label": "Bağlantı parçaları",
+          "value": "PJ-2481, PJ-JDK003"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p26.png",
+      "imageWidth": 267,
+      "imageHeight": 363,
+      "imageAlt": "PJ-DG007 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-dg008",
+      "model": "PJ-DG008",
+      "name": "İki açılı raf rayı",
+      "category": "accessories",
+      "subcategory": "rail",
+      "sourcePage": 27,
+      "sourcePages": {
+        "original": 27,
+        "translated": 27
+      },
+      "summary": "Tegometall, Linde ve Storebest 30 raf sistemleri için iki açı seçenekli ray.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PVC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Raf tipi",
+          "value": "Tegometall / Linde / Storebest 30 (25–30 mm)"
+        },
+        {
+          "label": "Açı seçeneği",
+          "value": "2 farklı açı"
+        },
+        {
+          "label": "Bağlantı parçaları",
+          "value": "PJ-2481, PJ-JDK003"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p27.jpeg",
+      "imageWidth": 291,
+      "imageHeight": 366,
+      "imageAlt": "PJ-DG008 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-dg021",
+      "model": "PJ-DG021",
+      "name": "Raf rayı 021",
+      "category": "accessories",
+      "subcategory": "rail",
+      "sourcePage": 28,
+      "sourcePages": {
+        "original": 28,
+        "translated": 28
+      },
+      "summary": "HMY, La Fortezza, Alser ve ELEA raf sistemleri için şeffaf ESL rayı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PVC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Raf tipi",
+          "value": "HMY P25 / La Fortezza F25 / Alser Innovation V4 / ELEA 25"
+        },
+        {
+          "label": "Bağlantı parçaları",
+          "value": "PJ-2481, PJ-JDK002"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p28.jpeg",
+      "imageWidth": 273,
+      "imageHeight": 363,
+      "imageAlt": "PJ-DG021 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-dg027",
+      "model": "PJ-DG027",
+      "name": "Raf rayı 027",
+      "category": "accessories",
+      "subcategory": "rail",
+      "sourcePage": 29,
+      "sourcePages": {
+        "original": 29,
+        "translated": 29
+      },
+      "summary": "18–25 mm düz raflar için şeffaf ESL rayı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PVC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Raf tipi",
+          "value": "18–25 mm düz raf"
+        },
+        {
+          "label": "Bağlantı parçaları",
+          "value": "PJ-2481, PJ-JDK002"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p29.png",
+      "imageWidth": 293,
+      "imageHeight": 369,
+      "imageAlt": "PJ-DG027 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-dg029",
+      "model": "PJ-DG029",
+      "name": "Raf rayı 029",
+      "category": "accessories",
+      "subcategory": "rail",
+      "sourcePage": 30,
+      "sourcePages": {
+        "original": 30,
+        "translated": 30
+      },
+      "summary": "25–30 mm raf profillerine uygun, açılı gösterim sağlayan şeffaf ray.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PVC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Raf tipi",
+          "value": "Tegometall / Linde / Storebest 30 (25–30 mm)"
+        },
+        {
+          "label": "Gösterilen açılar",
+          "value": "25° / 40°"
+        },
+        {
+          "label": "Bağlantı parçaları",
+          "value": "PJ-2481, PJ-JDK003"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p30.png",
+      "imageWidth": 267,
+      "imageHeight": 366,
+      "imageAlt": "PJ-DG029 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-dg030",
+      "model": "PJ-DG030",
+      "name": "Raf rayı 030",
+      "category": "accessories",
+      "subcategory": "rail",
+      "sourcePage": 31,
+      "sourcePages": {
+        "original": 31,
+        "translated": 31
+      },
+      "summary": "Kompakt ESL boyutları için şeffaf PVC raf rayı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PVC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p31.png",
+      "imageWidth": 221,
+      "imageHeight": 286,
+      "imageAlt": "PJ-DG030 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-ft002",
+      "model": "PJ-FT002",
+      "name": "Ray uç kapağı",
+      "category": "accessories",
+      "subcategory": "rail",
+      "sourcePage": 32,
+      "sourcePages": {
+        "original": 32,
+        "translated": 32
+      },
+      "summary": "Uyumlu ESL raf rayları için şeffaf uç kapağı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PVC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu raylar",
+          "value": "PJ-DG007, PJ-DG008, PJ-DG021, PJ-DG027, PJ-DG029"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p32.png",
+      "imageWidth": 281,
+      "imageHeight": 220,
+      "imageAlt": "PJ-FT002 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-jdk002",
+      "model": "PJ-JDK002",
+      "name": "Açı aparatı 002",
+      "category": "accessories",
+      "subcategory": "rail",
+      "sourcePage": 33,
+      "sourcePages": {
+        "original": 33,
+        "translated": 33
+      },
+      "summary": "PJ-DG021 ve PJ-DG027 raylarında 30° veya 40° açı için aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PVC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu raylar",
+          "value": "PJ-DG021, PJ-DG027"
+        },
+        {
+          "label": "Açılar",
+          "value": "30° / 40°"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p33.png",
+      "imageWidth": 345,
+      "imageHeight": 271,
+      "imageAlt": "PJ-JDK002 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-jdk003",
+      "model": "PJ-JDK003",
+      "name": "Açı aparatı 003",
+      "category": "accessories",
+      "subcategory": "rail",
+      "sourcePage": 34,
+      "sourcePages": {
+        "original": 34,
+        "translated": 34
+      },
+      "summary": "PJ-DG007, PJ-DG008 ve PJ-DG029 rayları için açı aparatı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PVC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu raylar",
+          "value": "PJ-DG007, PJ-DG008, PJ-DG029"
+        },
+        {
+          "label": "Açılar",
+          "value": "25° / 45°"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p34.png",
+      "imageWidth": 224,
+      "imageHeight": 175,
+      "imageAlt": "PJ-JDK003 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-qj003",
+      "model": "PJ-QJ003",
+      "name": "ESL pil kapağı sökme aparatı",
+      "category": "accessories",
+      "subcategory": "tools",
+      "sourcePage": 35,
+      "sourcePages": {
+        "original": 35,
+        "translated": 35
+      },
+      "summary": "Değiştirilebilir pilli ESL etiketlerinin pil kapağını açmak için metal aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "Metal"
+        },
+        {
+          "label": "Renk",
+          "value": "Sarı"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "Pili değiştirilebilen tüm ESL modelleri"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p35.jpeg",
+      "imageWidth": 360,
+      "imageHeight": 328,
+      "imageAlt": "PJ-QJ003 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-qj005",
+      "model": "PJ-QJ005",
+      "name": "ESL raydan çıkarma aparatı",
+      "category": "accessories",
+      "subcategory": "tools",
+      "sourcePage": 36,
+      "sourcePages": {
+        "original": 36,
+        "translated": 36
+      },
+      "summary": "Uyumlu ESL etiketlerini raf rayından sökmek için aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PA"
+        },
+        {
+          "label": "Renk",
+          "value": "Yeşil"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p36.png",
+      "imageWidth": 166,
+      "imageHeight": 319,
+      "imageAlt": "PJ-QJ005 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-bb003",
+      "model": "PJ-BB003",
+      "name": "Büyük ekran ESL adaptörü",
+      "category": "accessories",
+      "subcategory": "adapter",
+      "sourcePage": 37,
+      "sourcePages": {
+        "original": 37,
+        "translated": 37
+      },
+      "summary": "7,50″, 9,70″ ve 13,3″ ESL modellerini standa bağlayan adaptör.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "ABS"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "7,50″ · 9,70″ · 13,3″"
+        },
+        {
+          "label": "İşlev",
+          "value": "Büyük boy ESL modellerini standa bağlar"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p37.png",
+      "imageWidth": 202,
+      "imageHeight": 220,
+      "imageAlt": "PJ-BB003 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-bb009",
+      "model": "PJ-BB009",
+      "name": "ESL adaptörü 009",
+      "category": "accessories",
+      "subcategory": "adapter",
+      "sourcePage": 38,
+      "sourcePages": {
+        "original": 38,
+        "translated": 38
+      },
+      "summary": "1,54″–4,20″ uyumlu ekranlar için 4 mm vida delikli adaptör.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″ · 4,20″"
+        },
+        {
+          "label": "Vida deliği",
+          "value": "Ø 4 mm"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p38.png",
+      "imageWidth": 215,
+      "imageHeight": 222,
+      "imageAlt": "PJ-BB009 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-bb009-magnet",
+      "model": "PJ-BB009 Magnet",
+      "name": "Mıknatıslı ESL adaptörü 009",
+      "category": "accessories",
+      "subcategory": "adapter",
+      "sourcePage": 39,
+      "sourcePages": {
+        "original": 39,
+        "translated": 39
+      },
+      "summary": "İki mıknatısla donatılmış, uyumlu ESL modelleri için montaj adaptörü.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC + mıknatıs"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″ · 4,20″"
+        },
+        {
+          "label": "Mıknatıs",
+          "value": "2 adet; her biri 20 × 10 × 3 mm"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p39.png",
+      "imageWidth": 182,
+      "imageHeight": 217,
+      "imageAlt": "PJ-BB009 Magnet — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-bb010",
+      "model": "PJ-BB010",
+      "name": "Döndürülebilir ESL adaptörü",
+      "category": "accessories",
+      "subcategory": "adapter",
+      "sourcePage": 40,
+      "sourcePages": {
+        "original": 40,
+        "translated": 40
+      },
+      "summary": "7,50″ ESL için döndürülebilir, şeffaf montaj adaptörü.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "ABS"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "7,50″"
+        },
+        {
+          "label": "İşlev",
+          "value": "Döndürülebilir yapı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p40.png",
+      "imageWidth": 593,
+      "imageHeight": 593,
+      "imageAlt": "PJ-BB010 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-gj007-bb009",
+      "model": "PJ-GJ007-BB009",
+      "name": "BB009 ile L tipi askı kancası aparatı",
+      "category": "accessories",
+      "subcategory": "hook",
+      "sourcePage": 41,
+      "sourcePages": {
+        "original": 41,
+        "translated": 41
+      },
+      "summary": "6–8 mm L tipi askı kancalarına ESL montajı için BB009 adaptörlü aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Uyumlu askı",
+          "value": "Ø 6–8 mm L tipi askı kancası"
+        },
+        {
+          "label": "Hareket",
+          "value": "Bastırma, serbest bırakma ve salınım"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p41.png",
+      "imageWidth": 304,
+      "imageHeight": 276,
+      "imageAlt": "PJ-GJ007-BB009 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-gj019-bb009",
+      "model": "PJ-GJ019-BB009",
+      "name": "BB009 ile askı kancası aparatı 019",
+      "category": "accessories",
+      "subcategory": "hook",
+      "sourcePage": 42,
+      "sourcePages": {
+        "original": 42,
+        "translated": 42
+      },
+      "summary": "3–10 mm T tipi askı veya tel üzerinde ESL montajı için aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Uyumlu askı",
+          "value": "Ø 3–10 mm T tipi askı kancası veya tel"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p42.png",
+      "imageWidth": 555,
+      "imageHeight": 312,
+      "imageAlt": "PJ-GJ019-BB009 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-gj021-bb011",
+      "model": "PJ-GJ021-BB011",
+      "name": "BB011 ile askı kancası aparatı 021",
+      "category": "accessories",
+      "subcategory": "hook",
+      "sourcePage": 43,
+      "sourcePages": {
+        "original": 43,
+        "translated": 43
+      },
+      "summary": "3–8 mm T tipi askı veya tel için BB011 adaptörlü, salınımlı aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Uyumlu askı",
+          "value": "Ø 3–8 mm T tipi askı kancası veya tel"
+        },
+        {
+          "label": "Hareket",
+          "value": "Salınımlı yapı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p43.png",
+      "imageWidth": 404,
+      "imageHeight": 404,
+      "imageAlt": "PJ-GJ021-BB011 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-gj020",
+      "model": "PJ-GJ020",
+      "name": "Askı kancası aparatı 020",
+      "category": "accessories",
+      "subcategory": "hook",
+      "sourcePage": 44,
+      "sourcePages": {
+        "original": 44,
+        "translated": 44
+      },
+      "summary": "3–6 mm askılarda yatay veya dikey ESL gösterimi için döndürülebilir aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Uyumlu askı",
+          "value": "Ø 3–6 mm T tipi askı kancası veya tel"
+        },
+        {
+          "label": "Gösterim",
+          "value": "Yatay ve dikey; döndürme ve itme mekanizması"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p44.png",
+      "imageWidth": 287,
+      "imageHeight": 274,
+      "imageAlt": "PJ-GJ020 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-gj021",
+      "model": "PJ-GJ021",
+      "name": "Askı kancası aparatı 021",
+      "category": "accessories",
+      "subcategory": "hook",
+      "sourcePage": 45,
+      "sourcePages": {
+        "original": 45,
+        "translated": 45
+      },
+      "summary": "5–8 mm askılarda yatay veya dikey ESL gösterimi için döndürülebilir aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Uyumlu askı",
+          "value": "Ø 5–8 mm T tipi askı kancası veya tel"
+        },
+        {
+          "label": "Gösterim",
+          "value": "Yatay ve dikey; döndürme ve itme mekanizması"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p45.png",
+      "imageWidth": 287,
+      "imageHeight": 274,
+      "imageAlt": "PJ-GJ021 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-gj010",
+      "model": "PJ-GJ010",
+      "name": "Büyük ekran askı aparatı 010",
+      "category": "accessories",
+      "subcategory": "hook",
+      "sourcePage": 46,
+      "sourcePages": {
+        "original": 46,
+        "translated": 46
+      },
+      "summary": "Büyük ESL ekranlarını 3–12 mm tel veya sepete asmak için aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "POM"
+        },
+        {
+          "label": "Renk",
+          "value": "Siyah"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "7,50″ · 9,70″ · 13,3″"
+        },
+        {
+          "label": "Uyumlu askı",
+          "value": "Ø 3–12 mm tel veya sepet"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p46.png",
+      "imageWidth": 157,
+      "imageHeight": 302,
+      "imageAlt": "PJ-GJ010 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-gj014",
+      "model": "PJ-GJ014",
+      "name": "Büyük ekran askı aparatı 014",
+      "category": "accessories",
+      "subcategory": "hook",
+      "sourcePage": 47,
+      "sourcePages": {
+        "original": 47,
+        "translated": 47
+      },
+      "summary": "Büyük ESL modelleri için 25 mm askı kancasına uygun aparat.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "7,50″ · 9,70″ · 13,3″"
+        },
+        {
+          "label": "Uyumlu askı",
+          "value": "Ø 25 mm askı kancası"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p47.png",
+      "imageWidth": 176,
+      "imageHeight": 421,
+      "imageAlt": "PJ-GJ014 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-wxj002-bb009",
+      "model": "PJ-WXJ002-BB009",
+      "name": "BB009 ile tek eklemli klips",
+      "category": "accessories",
+      "subcategory": "clip",
+      "sourcePage": 48,
+      "sourcePages": {
+        "original": 48,
+        "translated": 48
+      },
+      "summary": "32 mm’ye kadar açılan, BB009 adaptörlü tek eklemli ESL klipsi.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "ABS"
+        },
+        {
+          "label": "Renk",
+          "value": "Gri"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″ · 4,20″"
+        },
+        {
+          "label": "Maksimum klips açıklığı",
+          "value": "32 mm"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p48.png",
+      "imageWidth": 190,
+      "imageHeight": 477,
+      "imageAlt": "PJ-WXJ002-BB009 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-wxj003-bb009",
+      "model": "PJ-WXJ003-BB009",
+      "name": "BB009 ile çift eklemli klips",
+      "category": "accessories",
+      "subcategory": "clip",
+      "sourcePage": 49,
+      "sourcePages": {
+        "original": 49,
+        "translated": 49
+      },
+      "summary": "32 mm’ye kadar açılan, BB009 adaptörlü çift eklemli ESL klipsi.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "ABS"
+        },
+        {
+          "label": "Renk",
+          "value": "Siyah"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″ · 4,20″"
+        },
+        {
+          "label": "Maksimum klips açıklığı",
+          "value": "32 mm"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p49.png",
+      "imageWidth": 707,
+      "imageHeight": 509,
+      "imageAlt": "PJ-WXJ003-BB009 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-yzj005-bb011",
+      "model": "PJ-YZJ005-BB011",
+      "name": "BB011 ile yatay raf klipsi",
+      "category": "accessories",
+      "subcategory": "clip",
+      "sourcePage": 50,
+      "sourcePages": {
+        "original": 50,
+        "translated": 50
+      },
+      "summary": "12–20 mm düz raflarda yatay montaj için BB011 adaptörlü klips.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″ · 4,20″"
+        },
+        {
+          "label": "Raf tipi",
+          "value": "12–20 mm düz raf"
+        },
+        {
+          "label": "Yön",
+          "value": "Yatay"
+        },
+        {
+          "label": "Hareket",
+          "value": "Salınımlı yapı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p50.png",
+      "imageWidth": 671,
+      "imageHeight": 407,
+      "imageAlt": "PJ-YZJ005-BB011 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-yzj006-bb011",
+      "model": "PJ-YZJ006-BB011",
+      "name": "BB011 ile dikey raf klipsi",
+      "category": "accessories",
+      "subcategory": "clip",
+      "sourcePage": 51,
+      "sourcePages": {
+        "original": 51,
+        "translated": 51
+      },
+      "summary": "12–20 mm düz raflarda dikey montaj için BB011 adaptörlü klips.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″ · 4,20″"
+        },
+        {
+          "label": "Raf tipi",
+          "value": "12–20 mm düz raf"
+        },
+        {
+          "label": "Yön",
+          "value": "Dikey"
+        },
+        {
+          "label": "Hareket",
+          "value": "Salınımlı yapı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p51.png",
+      "imageWidth": 552,
+      "imageHeight": 413,
+      "imageAlt": "PJ-YZJ006-BB011 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-bc003-bb009",
+      "model": "PJ-BC003-BB009",
+      "name": "BB009 ile buz pimi 003",
+      "category": "accessories",
+      "subcategory": "stand",
+      "sourcePage": 52,
+      "sourcePages": {
+        "original": 52,
+        "translated": 52
+      },
+      "summary": "135° gösterim açılı, BB009 adaptörlü şeffaf buz pimi.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″ · 4,20″"
+        },
+        {
+          "label": "Gösterim açısı",
+          "value": "135°"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p52.png",
+      "imageWidth": 359,
+      "imageHeight": 639,
+      "imageAlt": "PJ-BC003-BB009 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-bt011-bb009",
+      "model": "PJ-BT011-BB009",
+      "name": "BB009 ile mıknatıslı masaüstü standı",
+      "category": "accessories",
+      "subcategory": "stand",
+      "sourcePage": 53,
+      "sourcePages": {
+        "original": 53,
+        "translated": 53
+      },
+      "summary": "Üç mıknatıslı, tek eklemli masaüstü ESL standı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "ABS"
+        },
+        {
+          "label": "Renk",
+          "value": "Siyah"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″ · 4,20″"
+        },
+        {
+          "label": "Eklem",
+          "value": "Tek eklem"
+        },
+        {
+          "label": "Mıknatıs",
+          "value": "3 adet; her biri 10 × 20 × 3 mm"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p53.png",
+      "imageWidth": 183,
+      "imageHeight": 313,
+      "imageAlt": "PJ-BT011-BB009 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-bt015-bb011",
+      "model": "PJ-BT015-BB011",
+      "name": "BB011 ile masaüstü standı 015",
+      "category": "accessories",
+      "subcategory": "stand",
+      "sourcePage": 54,
+      "sourcePages": {
+        "original": 54,
+        "translated": 54
+      },
+      "summary": "135° gösterim açılı, BB011 adaptörlü masaüstü ESL standı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Gösterim açısı",
+          "value": "135°"
+        },
+        {
+          "label": "Hareket",
+          "value": "Salınımlı yapı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p54.png",
+      "imageWidth": 464,
+      "imageHeight": 465,
+      "imageAlt": "PJ-BT015-BB011 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-bt016-bb011",
+      "model": "PJ-BT016-BB011",
+      "name": "BB011 ile masaüstü standı 016",
+      "category": "accessories",
+      "subcategory": "stand",
+      "sourcePage": 55,
+      "sourcePages": {
+        "original": 55,
+        "translated": 55
+      },
+      "summary": "75 mm yüksekliğinde, BB011 adaptörlü masaüstü ESL standı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Yükseklik",
+          "value": "75 mm"
+        },
+        {
+          "label": "Hareket",
+          "value": "Salınımlı yapı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p55.png",
+      "imageWidth": 278,
+      "imageHeight": 415,
+      "imageAlt": "PJ-BT016-BB011 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-lsg006",
+      "model": "PJ-LSG006",
+      "name": "Çift taraflı metal stand",
+      "category": "accessories",
+      "subcategory": "stand",
+      "sourcePage": 56,
+      "sourcePages": {
+        "original": 56,
+        "translated": 56
+      },
+      "summary": "450–750 mm yükseklik ayarlı, çift taraflı metal ESL standı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "Çelik + PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Siyah"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″ · 4,20″"
+        },
+        {
+          "label": "Ayarlanabilir yükseklik",
+          "value": "450–750 mm"
+        },
+        {
+          "label": "Uyumlu adaptör",
+          "value": "BB009"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p56.png",
+      "imageWidth": 297,
+      "imageHeight": 408,
+      "imageAlt": "PJ-LSG006 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-lsg007",
+      "model": "PJ-LSG007",
+      "name": "Tek taraflı metal stand",
+      "category": "accessories",
+      "subcategory": "stand",
+      "sourcePage": 57,
+      "sourcePages": {
+        "original": 57,
+        "translated": 57
+      },
+      "summary": "280–480 mm yükseklik ayarlı, tek taraflı metal ESL standı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "Çelik + PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Siyah"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "Tüm ESL boyutları"
+        },
+        {
+          "label": "Ayarlanabilir yükseklik",
+          "value": "280–480 mm"
+        },
+        {
+          "label": "Uyumlu adaptörler",
+          "value": "BB003, BB009"
+        },
+        {
+          "label": "Taban ölçüsü",
+          "value": "135 × 135 mm"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p57.png",
+      "imageWidth": 162,
+      "imageHeight": 407,
+      "imageAlt": "PJ-LSG007 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-fsz001",
+      "model": "PJ-FSZ001",
+      "name": "Su geçirmez kutu 001",
+      "category": "accessories",
+      "subcategory": "protection",
+      "sourcePage": 58,
+      "sourcePages": {
+        "original": 58,
+        "translated": 58
+      },
+      "summary": "4,20″ ESL için su kanalı veya dondurucuda kullanılan koruyucu kutu.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "4,20″"
+        },
+        {
+          "label": "Kullanım",
+          "value": "Su kanalı veya dondurucu"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p58.png",
+      "imageWidth": 279,
+      "imageHeight": 247,
+      "imageAlt": "PJ-FSZ001 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-fsz002",
+      "model": "PJ-FSZ002",
+      "name": "Mıknatıslı su geçirmez kutu 002",
+      "category": "accessories",
+      "subcategory": "protection",
+      "sourcePage": 59,
+      "sourcePages": {
+        "original": 59,
+        "translated": 59
+      },
+      "summary": "4,20″ ESL için mıknatıslı, su geçirmez koruyucu kutu.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "4,20″"
+        },
+        {
+          "label": "Kullanım",
+          "value": "Su kanalı veya dondurucu"
+        },
+        {
+          "label": "Montaj",
+          "value": "Mıknatıslı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p59.png",
+      "imageWidth": 264,
+      "imageHeight": 233,
+      "imageAlt": "PJ-FSZ002 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-fsz003",
+      "model": "PJ-FSZ003",
+      "name": "Su geçirmez kutu 003",
+      "category": "accessories",
+      "subcategory": "protection",
+      "sourcePage": 60,
+      "sourcePages": {
+        "original": 60,
+        "translated": 60
+      },
+      "summary": "2,13″, 2,66″ ve 2,90″ ESL modelleri için su ve lekeye karşı koruyucu kutu.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "2,13″ · 2,66″ · 2,90″"
+        },
+        {
+          "label": "Koruma amacı",
+          "value": "ESL etiketini su ve leke gibi etkilere karşı korur"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p60.png",
+      "imageWidth": 416,
+      "imageHeight": 311,
+      "imageAlt": "PJ-FSZ003 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-xgp001",
+      "model": "PJ-XGP001",
+      "name": "Tek taraflı askılı pano",
+      "category": "accessories",
+      "subcategory": "stand",
+      "sourcePage": 61,
+      "sourcePages": {
+        "original": 61,
+        "translated": 61
+      },
+      "summary": "7,50″ ESL ve 200 × 75 mm tanıtım kartı için tek taraflı askılı pano.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "7,50″"
+        },
+        {
+          "label": "Tanıtım kartı ölçüsü",
+          "value": "200 × 75 mm"
+        },
+        {
+          "label": "Gösterim",
+          "value": "Tek taraflı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p61.png",
+      "imageWidth": 272,
+      "imageHeight": 320,
+      "imageAlt": "PJ-XGP001 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pj-xgp002",
+      "model": "PJ-XGP002",
+      "name": "Çift taraflı askılı pano",
+      "category": "accessories",
+      "subcategory": "stand",
+      "sourcePage": 62,
+      "sourcePages": {
+        "original": 62,
+        "translated": 62
+      },
+      "summary": "7,50″ ESL ve 200 × 75 mm tanıtım kartı için çift taraflı askılı pano.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PC"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "7,50″"
+        },
+        {
+          "label": "Tanıtım kartı ölçüsü",
+          "value": "200 × 75 mm"
+        },
+        {
+          "label": "Gösterim",
+          "value": "Çift taraflı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p62.png",
+      "imageWidth": 215,
+      "imageHeight": 320,
+      "imageAlt": "PJ-XGP002 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "pi-bt012",
+      "model": "PI-BT012",
+      "name": "Akrilik masaüstü standı 012",
+      "category": "accessories",
+      "subcategory": "stand",
+      "sourcePage": 63,
+      "sourcePages": {
+        "original": 63,
+        "translated": 63
+      },
+      "summary": "155 × 100 mm ön yüzeyli, 2 mm kalınlığında şeffaf akrilik ESL standı.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PMMA"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "5,30″ · 7,50″ · 9,70″"
+        },
+        {
+          "label": "Ön yüzey ölçüsü",
+          "value": "155 × 100 mm"
+        },
+        {
+          "label": "Kalınlık",
+          "value": "2 mm"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p63.jpeg",
+      "imageWidth": 301,
+      "imageHeight": 331,
+      "imageAlt": "PI-BT012 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "isi-ile-daralan-makaron",
+      "model": null,
+      "name": "Isıyla daralan makaron",
+      "category": "accessories",
+      "subcategory": "protection",
+      "sourcePage": 64,
+      "sourcePages": {
+        "original": 64,
+        "translated": 64
+      },
+      "summary": "Askı kancasında sürtünmeyi artıran, 6 mm çapında ve 2:1 oranında daralan makaron.",
+      "specs": [
+        {
+          "label": "Malzeme",
+          "value": "PE"
+        },
+        {
+          "label": "Renk",
+          "value": "Şeffaf"
+        },
+        {
+          "label": "Uyumlu ESL boyutları",
+          "value": "1,54″ · 2,13″ · 2,66″ · 2,90″ · 3,50″"
+        },
+        {
+          "label": "Biçim",
+          "value": "Yuvarlak"
+        },
+        {
+          "label": "Çap",
+          "value": "Ø 6 mm"
+        },
+        {
+          "label": "Daralma oranı",
+          "value": "2:1"
+        },
+        {
+          "label": "Kullanım",
+          "value": "Askı kancasının sürtünmesini artırır"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p64.jpeg",
+      "imageWidth": 439,
+      "imageHeight": 247,
+      "imageAlt": "Isıyla daralan makaron — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "cr2450",
+      "model": "CR2450",
+      "name": "Lityum düğme pil 600 mAh",
+      "category": "accessories",
+      "subcategory": "power",
+      "sourcePage": 65,
+      "sourcePages": {
+        "original": 65,
+        "translated": 65
+      },
+      "summary": "600 mAh kapasiteli, 3 V, şarj edilemeyen lityum düğme pil.",
+      "specs": [
+        {
+          "label": "Pil türü",
+          "value": "CR2450 lityum düğme pil"
+        },
+        {
+          "label": "Kapasite",
+          "value": "600 mAh"
+        },
+        {
+          "label": "Gerilim",
+          "value": "3 V"
+        },
+        {
+          "label": "Şarj durumu",
+          "value": "Şarj edilemez"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p65-1.jpeg",
+      "imageWidth": 357,
+      "imageHeight": 219,
+      "imageAlt": "CR2450 — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "cr2450-3p",
+      "model": "CR2450-3p",
+      "name": "Lityum düğme pil 1800 mAh",
+      "category": "accessories",
+      "subcategory": "power",
+      "sourcePage": 65,
+      "sourcePages": {
+        "original": 65,
+        "translated": 65
+      },
+      "summary": "1800 mAh kapasiteli, 3 V, şarj edilemeyen lityum düğme pil.",
+      "specs": [
+        {
+          "label": "Pil türü",
+          "value": "CR2450 lityum düğme pil"
+        },
+        {
+          "label": "Kapasite",
+          "value": "1800 mAh"
+        },
+        {
+          "label": "Gerilim",
+          "value": "3 V"
+        },
+        {
+          "label": "Şarj durumu",
+          "value": "Şarj edilemez"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p65-2.png",
+      "imageWidth": 355,
+      "imageHeight": 412,
+      "imageAlt": "CR2450-3p — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "cr2450-4p",
+      "model": "CR2450-4p",
+      "name": "Lityum düğme pil 2400 mAh",
+      "category": "accessories",
+      "subcategory": "power",
+      "sourcePage": 65,
+      "sourcePages": {
+        "original": 65,
+        "translated": 65
+      },
+      "summary": "2400 mAh kapasiteli, 3 V, şarj edilemeyen lityum düğme pil.",
+      "specs": [
+        {
+          "label": "Pil türü",
+          "value": "CR2450 lityum düğme pil"
+        },
+        {
+          "label": "Kapasite",
+          "value": "2400 mAh"
+        },
+        {
+          "label": "Gerilim",
+          "value": "3 V"
+        },
+        {
+          "label": "Şarj durumu",
+          "value": "Şarj edilemez"
+        }
+      ],
+      "notes": [],
+      "image": "assets/products/wintec/p65-3.png",
+      "imageWidth": 236,
+      "imageHeight": 564,
+      "imageAlt": "CR2450-4p — katalog ürün görseli",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+    },
+    {
+      "id": "urovo-ct48",
+      "model": "UROVO CT48",
+      "name": "UROVO CT48",
+      "category": "terminals",
+      "subcategory": "",
+      "summary": "4” • Android 12 • 4/64 GB • Wi‑Fi",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "4” • Android 12 • 4/64 GB • Wi‑Fi"
+        }
+      ],
+      "notes": [],
+      "image": "assets/ct48.jpg",
+      "imageWidth": 350,
+      "imageHeight": 225,
+      "imageAlt": "UROVO CT48",
+      "sourcePage": null,
+      "detailPage": "el-terminalleri.html"
+    },
+    {
+      "id": "urovo-ct58s",
+      "model": "UROVO CT58S",
+      "name": "UROVO CT58S",
+      "category": "terminals",
+      "subcategory": "",
+      "summary": "5.5” • 4/64 GB • 1D/2D • Android 12",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "5.5” • 4/64 GB • 1D/2D • Android 12"
+        }
+      ],
+      "notes": [],
+      "image": "assets/ct58s.jpg",
+      "imageWidth": 350,
+      "imageHeight": 225,
+      "imageAlt": "UROVO CT58S",
+      "sourcePage": null,
+      "detailPage": "el-terminalleri.html"
+    },
+    {
+      "id": "urovo-ct58r",
+      "model": "UROVO CT58R",
+      "name": "UROVO CT58R",
+      "category": "terminals",
+      "subcategory": "",
+      "summary": "5.5” • Android 12 • 4/64 GB • Wi‑Fi",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "5.5” • Android 12 • 4/64 GB • Wi‑Fi"
+        }
+      ],
+      "notes": [],
+      "image": "assets/ct58r.jpg",
+      "imageWidth": 350,
+      "imageHeight": 225,
+      "imageAlt": "UROVO CT58R",
+      "sourcePage": null,
+      "detailPage": "el-terminalleri.html"
+    },
+    {
+      "id": "urovo-rt40s",
+      "model": "UROVO RT40S",
+      "name": "UROVO RT40S",
+      "category": "terminals",
+      "subcategory": "",
+      "summary": "4” • 4/64 GB • 2D • Wi‑Fi • 4G",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "4” • 4/64 GB • 2D • Wi‑Fi • 4G"
+        }
+      ],
+      "notes": [],
+      "image": "assets/rt40s.jpg",
+      "imageWidth": 350,
+      "imageHeight": 225,
+      "imageAlt": "UROVO RT40S",
+      "sourcePage": null,
+      "detailPage": "el-terminalleri.html"
+    },
+    {
+      "id": "sunmi-v2s-plus",
+      "model": "SUNMI V2s PLUS",
+      "name": "SUNMI V2s PLUS",
+      "category": "terminals",
+      "subcategory": "",
+      "summary": "6” • Android 11 • Yazıcılı mobil terminal",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "6” • Android 11 • Yazıcılı mobil terminal"
+        }
+      ],
+      "notes": [],
+      "image": "assets/sunmi_v2s.jpg",
+      "imageWidth": 350,
+      "imageHeight": 225,
+      "imageAlt": "SUNMI V2s PLUS",
+      "sourcePage": null,
+      "detailPage": "el-terminalleri.html"
+    },
+    {
+      "id": "gscan-nb55",
+      "model": "GSCAN NB55",
+      "name": "GSCAN NB55",
+      "category": "terminals",
+      "subcategory": "",
+      "summary": "6” • Android 12 • 4/64 GB • 2” yazıcı",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "6” • Android 12 • 4/64 GB • 2” yazıcı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/nb55.jpg",
+      "imageWidth": 350,
+      "imageHeight": 225,
+      "imageAlt": "GSCAN NB55",
+      "sourcePage": null,
+      "detailPage": "el-terminalleri.html"
+    },
+    {
+      "id": "gscan-fg4500",
+      "model": "GSCAN FG4500",
+      "name": "GSCAN FG4500",
+      "category": "terminals",
+      "subcategory": "",
+      "summary": "10.1” • Bilgi toplama / fiyat gör terminali",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "10.1” • Bilgi toplama / fiyat gör terminali"
+        }
+      ],
+      "notes": [],
+      "image": "assets/fg4500.jpg",
+      "imageWidth": 350,
+      "imageHeight": 225,
+      "imageAlt": "GSCAN FG4500",
+      "sourcePage": null,
+      "detailPage": "el-terminalleri.html"
+    },
+    {
+      "id": "gscan-fg4500-poe",
+      "model": "GSCAN FG4500 PoE",
+      "name": "GSCAN FG4500 PoE",
+      "category": "terminals",
+      "subcategory": "",
+      "summary": "10.1” • PoE • Bilgi toplama / fiyat gör terminali",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "10.1” • PoE • Bilgi toplama / fiyat gör terminali"
+        }
+      ],
+      "notes": [],
+      "image": "assets/fg4500.jpg",
+      "imageWidth": 350,
+      "imageHeight": 225,
+      "imageAlt": "GSCAN FG4500 PoE",
+      "sourcePage": null,
+      "detailPage": "el-terminalleri.html"
+    },
+    {
+      "id": "godex-ez120",
+      "model": "GODEX EZ120",
+      "name": "GODEX EZ120",
+      "category": "printers",
+      "subcategory": "",
+      "summary": "203 dpi • Masaüstü termal etiket yazıcı",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "203 dpi • Masaüstü termal etiket yazıcı"
+        }
+      ],
+      "notes": [],
+      "image": "assets/godex_ez120.jpg",
+      "imageWidth": 350,
+      "imageHeight": 225,
+      "imageAlt": "GODEX EZ120 etiket yazıcı",
+      "sourcePage": null,
+      "detailPage": "barkod-yazicilar.html"
+    },
+    {
+      "id": "dibal-d-955-flat",
+      "model": "DIBAL D-955 Flat",
+      "name": "DIBAL D-955 Flat",
+      "category": "scales",
+      "subcategory": "",
+      "summary": "Dokunmatik ekranlı elektronik terazi; etiketleme ve perakende tartım operasyonları için profesyonel çözüm.",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "Dokunmatik ekranlı elektronik terazi; etiketleme ve perakende tartım operasyonları için profesyonel çözüm."
+        }
+      ],
+      "notes": [],
+      "image": "assets/dibal_d955.jpg",
+      "imageWidth": 900,
+      "imageHeight": 560,
+      "imageAlt": "DIBAL D-955 Flat elektronik terazi",
+      "sourcePage": null,
+      "detailPage": "teraziler.html"
+    },
+    {
+      "id": "ayakli-led-ekran",
+      "model": null,
+      "name": "Ayaklı LED ekran",
+      "category": "led",
+      "subcategory": "",
+      "summary": "Mağaza girişinde ve showroom içinde kampanya, ürün videosu ve marka mesajı için dikey gösterim.",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "Mağaza girişinde ve showroom içinde kampanya, ürün videosu ve marka mesajı için dikey gösterim."
+        }
+      ],
+      "notes": [],
+      "image": "assets/displays/fi-led-poster.webp",
+      "imageWidth": 1000,
+      "imageHeight": 1250,
+      "imageAlt": "Ayaklı LED ekran",
+      "sourcePage": null,
+      "detailPage": "led-ekranlar.html"
+    },
+    {
+      "id": "seffaf-led-ekran",
+      "model": null,
+      "name": "Şeffaf LED ekran",
+      "category": "led",
+      "subcategory": "",
+      "summary": "Vitrinin arkasının da görülebildiği bir sunumla tanıtım içeriğini mimari alanla birleştirin.",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "Vitrinin arkasının da görülebildiği bir sunumla tanıtım içeriğini mimari alanla birleştirin."
+        }
+      ],
+      "notes": [],
+      "image": "assets/displays/fi-led-transparent.webp",
+      "imageWidth": 1000,
+      "imageHeight": 1250,
+      "imageAlt": "Şeffaf LED ekran",
+      "sourcePage": null,
+      "detailPage": "led-ekranlar.html"
+    },
+    {
+      "id": "kup-led-ekran",
+      "model": null,
+      "name": "Küp LED ekran",
+      "category": "led",
+      "subcategory": "",
+      "summary": "Farklı yönlere bakan ekran yüzeyleriyle fuar, AVM ve mağaza alanlarında marka tanıtımı.",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "Farklı yönlere bakan ekran yüzeyleriyle fuar, AVM ve mağaza alanlarında marka tanıtımı."
+        }
+      ],
+      "notes": [],
+      "image": "assets/displays/fi-led-cube.webp",
+      "imageWidth": 1000,
+      "imageHeight": 1250,
+      "imageAlt": "Küp LED ekran",
+      "sourcePage": null,
+      "detailPage": "led-ekranlar.html"
+    },
+    {
+      "id": "masaustu-led-ekran",
+      "model": null,
+      "name": "Masaüstü LED ekran",
+      "category": "led",
+      "subcategory": "",
+      "summary": "Kasa ve karşılama bankosunda ürün, menü veya kampanya mesajlarını gösterin.",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "Kasa ve karşılama bankosunda ürün, menü veya kampanya mesajlarını gösterin."
+        }
+      ],
+      "notes": [],
+      "image": "assets/displays/fi-led-desktop.webp",
+      "imageWidth": 1000,
+      "imageHeight": 1250,
+      "imageAlt": "Masaüstü LED ekran",
+      "sourcePage": null,
+      "detailPage": "led-ekranlar.html"
+    },
+    {
+      "id": "cok-yuzeyli-led-ekran",
+      "model": null,
+      "name": "Çok yüzeyli LED ekran",
+      "category": "led",
+      "subcategory": "",
+      "summary": "Tek bir sergileme noktasında farklı yüzeylerden görülebilen içerik sunumu.",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "Tek bir sergileme noktasında farklı yüzeylerden görülebilen içerik sunumu."
+        }
+      ],
+      "notes": [],
+      "image": "assets/displays/fi-led-multiface.webp",
+      "imageWidth": 1000,
+      "imageHeight": 1250,
+      "imageAlt": "Çok yüzeyli LED ekran",
+      "sourcePage": null,
+      "detailPage": "led-ekranlar.html"
+    },
+    {
+      "id": "led-ekranli-banko",
+      "model": null,
+      "name": "LED ekranlı banko",
+      "category": "led",
+      "subcategory": "",
+      "summary": "Karşılama alanı ve fuar bankosunu logo, duyuru ve tanıtım yüzeyine dönüştürün.",
+      "specs": [
+        {
+          "label": "Ürün özellikleri",
+          "value": "Karşılama alanı ve fuar bankosunu logo, duyuru ve tanıtım yüzeyine dönüştürün."
+        }
+      ],
+      "notes": [],
+      "image": "assets/displays/fi-led-counter.webp",
+      "imageWidth": 1000,
+      "imageHeight": 1250,
+      "imageAlt": "LED ekranlı banko",
+      "sourcePage": null,
+      "detailPage": "led-ekranlar.html"
+    },
+    {
+      "id": "32-inc-lcd-menuboard",
+      "model": null,
+      "name": "32 inç LCD Menüboard",
+      "category": "signage",
+      "subcategory": "",
+      "summary": "Kafe, pastane ve kasa çevresinde menü ve ürün tanıtımı için kompakt sunum.",
+      "specs": [
+        {
+          "label": "Kullanım",
+          "value": "Kafe, pastane ve kasa çevresinde menü ve ürün tanıtımı için kompakt sunum."
+        },
+        {
+          "label": "Seçenek",
+          "value": "Duvar ve montaj seçenekleri projeye göre"
+        }
+      ],
+      "notes": [],
+      "image": null,
+      "imageWidth": 640,
+      "imageHeight": 400,
+      "imageAlt": "32 inç LCD Menüboard",
+      "sourcePage": null,
+      "detailPage": "lcd-signage-ekranlar.html#menu-32"
+    },
+    {
+      "id": "43-inc-lcd-menuboard",
+      "model": null,
+      "name": "43 inç LCD Menüboard",
+      "category": "signage",
+      "subcategory": "",
+      "summary": "Kafe, restoran ve akaryakıt marketlerinde menü ve kampanya gösterimi.",
+      "specs": [
+        {
+          "label": "Kullanım",
+          "value": "Kafe, restoran ve akaryakıt marketlerinde menü ve kampanya gösterimi."
+        },
+        {
+          "label": "Seçenek",
+          "value": "Duvar ve montaj seçenekleri projeye göre"
+        }
+      ],
+      "notes": [],
+      "image": null,
+      "imageWidth": 640,
+      "imageHeight": 400,
+      "imageAlt": "43 inç LCD Menüboard",
+      "sourcePage": null,
+      "detailPage": "lcd-signage-ekranlar.html#menu-43"
+    },
+    {
+      "id": "55-inc-lcd-menuboard",
+      "model": null,
+      "name": "55 inç LCD Menüboard",
+      "category": "signage",
+      "subcategory": "",
+      "summary": "Geniş menü içerikleri ve daha büyük tanıtım alanları için ekran seçeneği.",
+      "specs": [
+        {
+          "label": "Kullanım",
+          "value": "Geniş menü içerikleri ve daha büyük tanıtım alanları için ekran seçeneği."
+        },
+        {
+          "label": "Seçenek",
+          "value": "Duvar ve montaj seçenekleri projeye göre"
+        }
+      ],
+      "notes": [],
+      "image": null,
+      "imageWidth": 640,
+      "imageHeight": 400,
+      "imageAlt": "55 inç LCD Menüboard",
+      "sourcePage": null,
+      "detailPage": "lcd-signage-ekranlar.html#menu-55"
+    },
+    {
+      "id": "portatif-menu-ekrani",
+      "model": null,
+      "name": "Portatif menü ekranı",
+      "category": "signage",
+      "subcategory": "",
+      "summary": "İşletme girişinde, vitrinde veya karşılama alanında konumlandırılabilen portatif LCD menüboard.",
+      "specs": [
+        {
+          "label": "Kullanım",
+          "value": "İşletme girişinde, vitrinde veya karşılama alanında konumlandırılabilen portatif LCD menüboard."
+        },
+        {
+          "label": "Seçenek",
+          "value": "32, 43 ve 55 inç ürün seçenekleri"
+        },
+        {
+          "label": "Seçenek",
+          "value": "Yerleşim ve içerik ihtiyacına göre model seçimi"
+        }
+      ],
+      "notes": [],
+      "image": "assets/displays/fi-lcd-portable.webp",
+      "imageWidth": 1120,
+      "imageHeight": 1400,
+      "imageAlt": "Portatif menü ekranı",
+      "sourcePage": null,
+      "detailPage": "lcd-signage-ekranlar.html#portatif"
+    },
+    {
+      "id": "dondurulebilir-tasinabilir-ekran",
+      "model": null,
+      "name": "Döndürülebilir, taşınabilir ekran",
+      "category": "signage",
+      "subcategory": "",
+      "summary": "Tekerlekli ayakla işletme içinde yer değiştiren; yatay veya dikey sunuma uyarlanabilen ekran seçenekleri.",
+      "specs": [
+        {
+          "label": "Kullanım",
+          "value": "Tekerlekli ayakla işletme içinde yer değiştiren; yatay veya dikey sunuma uyarlanabilen ekran seçenekleri."
+        },
+        {
+          "label": "Seçenek",
+          "value": "Menü, karşılama ve sunum kullanımı"
+        },
+        {
+          "label": "Seçenek",
+          "value": "32 inç ekran seçeneği"
+        },
+        {
+          "label": "Seçenek",
+          "value": "Model ve donanım için bilgi alın"
+        }
+      ],
+      "notes": [],
+      "image": null,
+      "imageWidth": 640,
+      "imageHeight": 400,
+      "imageAlt": "Döndürülebilir, taşınabilir ekran",
+      "sourcePage": null,
+      "detailPage": "lcd-signage-ekranlar.html#donerli"
+    },
+    {
+      "id": "bar-tipi-lcd-ekran",
+      "model": null,
+      "name": "Bar tipi LCD ekran",
+      "category": "signage",
+      "subcategory": "",
+      "summary": "Raf, tezgâh ve dar yatay tanıtım alanları için uzun formatlı ekran çözümleri. Yerleşime uygun ölçü ve içerik oranı birlikte planlanır.",
+      "specs": [
+        {
+          "label": "Kullanım",
+          "value": "Raf, tezgâh ve dar yatay tanıtım alanları için uzun formatlı ekran çözümleri. Yerleşime uygun ölçü ve içerik oranı birlikte planlanır."
+        },
+        {
+          "label": "Seçenek",
+          "value": "Ölçü ve model proje bazında belirlenir"
+        }
+      ],
+      "notes": [],
+      "image": null,
+      "imageWidth": 640,
+      "imageHeight": 400,
+      "imageAlt": "Bar tipi LCD ekran",
+      "sourcePage": null,
+      "detailPage": "lcd-signage-ekranlar.html#bar"
+    },
+    {
+      "id": "curved-kavisli-ekran",
+      "model": null,
+      "name": "Curved / kavisli ekran",
+      "category": "signage",
+      "subcategory": "",
+      "summary": "Kavisli ekran biçimiyle farklı bir ürün ve marka sunumu planlayın. Kullanılacak panel ve kurulum yapısı mekân ihtiyacına göre değerlendirilir.",
+      "specs": [
+        {
+          "label": "Kullanım",
+          "value": "Kavisli ekran biçimiyle farklı bir ürün ve marka sunumu planlayın. Kullanılacak panel ve kurulum yapısı mekân ihtiyacına göre değerlendirilir."
+        },
+        {
+          "label": "Seçenek",
+          "value": "Kavis, boyut ve model için bilgi alın"
+        }
+      ],
+      "notes": [],
+      "image": null,
+      "imageWidth": 640,
+      "imageHeight": 400,
+      "imageAlt": "Curved / kavisli ekran",
+      "sourcePage": null,
+      "detailPage": "lcd-signage-ekranlar.html#curved"
+    }
+  ]
+}
