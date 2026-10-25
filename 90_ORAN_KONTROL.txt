@@ -1,0 +1,4 @@
+Ana sayfa masaüstünde %90 genişlikte ortalandı.
+HD homepage görseli korunuyor.
+Tablet/mobilde %100 genişliğe dönüyor.
+Diğer ürün/ESL sayfalarına dokunulmadı.

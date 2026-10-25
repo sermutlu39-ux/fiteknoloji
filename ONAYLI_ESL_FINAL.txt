@@ -1,0 +1,3 @@
+Kullanıcının onayladığı ESL görünümüne göre düzenlendi.
+7 ESL görseli ayrı ayrı ortalandı; aynı piksel alanında, taşmasız ve yamulmadan gösterilir.
+Kırık yerel bağlantı/dosya: 0

@@ -1,0 +1,6 @@
+FI Teknoloji HD Final
+Eski homepage: 1024x1536px
+Yeni homepage: 1920x2880px
+İlk ekran yüksek çözünürlüklü yeniden üretildi.
+Alt bölümler yüksek kaliteli upscale edildi.
+Tarayıcı genişliğine %100 oturur, oran bozulmaz.

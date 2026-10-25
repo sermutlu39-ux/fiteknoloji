@@ -1,0 +1,3 @@
+ESL raf görselleri kesilmeden 1.90:1 oranında sabitlendi.
+Ürün fotoğrafları tam görünür, kart içinde zoom yapılmaz.
+Kırık yerel link/dosya: 0

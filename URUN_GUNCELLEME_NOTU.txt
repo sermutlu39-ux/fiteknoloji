@@ -1,0 +1,7 @@
+FI Teknoloji ürün güncellemesi:
+- Veranet/FI katalogundan doğrulanan UROVO CT48, CT58S, CT58R, RT40S eklendi.
+- SUNMI V2s PLUS, GSCAN NB55, FG4500 ve FG4500 PoE eklendi.
+- Önceki FI site dosyasında bulunan GODEX EZ120 eklendi.
+- ESL sayfasındaki 7 boyut için üçüncü taraf marka içermeyen FI demo etiket görselleri oluşturuldu.
+- Elektronik terazi gerçek modelleri hâlâ netleştirilecek.
+- Canlıya yükleme GitHub yazma erişimi açılınca yapılacak.

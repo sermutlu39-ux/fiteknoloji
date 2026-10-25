@@ -1,0 +1,8 @@
+FI Teknoloji responsive final:
+- Ana sayfa masaüstünde geniş ekranı daha iyi kullanacak şekilde akışkan hale getirildi.
+- Sabit genişlik kaynaklı küçük görünüm düzeltildi.
+- Homepage görseli oranı bozulmadan max 1440px / %94 viewport genişliğine göre ölçekleniyor.
+- Header/container genişlikleri masaüstü, laptop, tablet ve mobil için uyarlandı.
+- Tasarım/içerik sırası değiştirilmedi.
+- ESL onaylı görünümü korundu.
+- Kırık yerel bağlantı/dosya: 0
