@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-27",
   "products": [
     {
       "id": "lsf130",
@@ -359,12 +359,11 @@
         }
       ],
       "notes": [],
-      "image": "assets/products/wintec/ls0213-rear.png",
-      "imageWidth": 218,
-      "imageHeight": 156,
-      "imageAlt": "LS0213 — katalogdaki arka görünüm teknik çizimi",
-      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf",
-      "imageCaption": "Arka görünüm · teknik çizim"
+      "image": "assets/products/wintec/ls0213-front.webp",
+      "imageWidth": 1774,
+      "imageHeight": 887,
+      "imageAlt": "LS0213 — 2,13 inç elektronik raf etiketi ön görünümü",
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
     },
     {
       "id": "ed0213c",
