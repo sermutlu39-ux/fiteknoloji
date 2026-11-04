@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fiteknoloji.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-04</lastmod>
   </url>
   <url>
     <loc>https://fiteknoloji.com/urunler.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-04</lastmod>
   </url>
   <url>
     <loc>https://fiteknoloji.com/esl.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-04</lastmod>
   </url>
   <url>
     <loc>https://fiteknoloji.com/elektronik-raf-etiketi-fiyatlari.html</loc>
@@ -38,7 +38,7 @@
     <loc>https://fiteknoloji.com/entegrasyon.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-04</lastmod>
   </url>
   <url>
     <loc>https://fiteknoloji.com/aksesuarlar.html</loc>
@@ -56,7 +56,7 @@
     <loc>https://fiteknoloji.com/cozumler.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-04</lastmod>
   </url>
   <url>
     <loc>https://fiteknoloji.com/iletisim.html</loc>
@@ -68,14 +68,48 @@
     <loc>https://fiteknoloji.com/sektorler.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-04</lastmod>
   </url>
   <url>
     <loc>https://fiteknoloji.com/hakkimizda.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-11-04</lastmod>
   </url>
-<url><loc>https://fiteknoloji.com/led-ekranlar.html</loc><lastmod>2026-09-27</lastmod></url>
-<url><loc>https://fiteknoloji.com/lcd-signage-ekranlar.html</loc><lastmod>2026-09-27</lastmod></url>
+  <url>
+    <loc>https://fiteknoloji.com/led-ekranlar.html</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://fiteknoloji.com/lcd-signage-ekranlar.html</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://fiteknoloji.com/akaryakit-marketleri-elektronik-raf-etiketi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://fiteknoloji.com/kafe-pastane-dijital-fiyat-etiketi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://fiteknoloji.com/eczane-elektronik-raf-etiketi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://fiteknoloji.com/2-13-inc-elektronik-raf-etiketi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://fiteknoloji.com/2-90-inc-elektronik-raf-etiketi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://fiteknoloji.com/4-20-inc-elektronik-raf-etiketi.html</loc>
+    <lastmod>2026-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://fiteknoloji.com/ap2400s-6-0-esl-gateway.html</loc>
+    <lastmod>2026-11-04</lastmod>
+  </url>
 </urlset>

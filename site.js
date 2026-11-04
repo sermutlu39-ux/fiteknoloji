@@ -40,6 +40,11 @@
     product.value = requestedProduct;
     product.dispatchEvent(new Event('change'));
   }
+  const requestedSector = new URLSearchParams(window.location.search).get('sektor');
+  const sector = document.getElementById('sectorSelect');
+  if (sector && requestedSector && Array.from(sector.options).some(option => option.value === requestedSector)) {
+    sector.value = requestedSector;
+  }
   const requestedModel = new URLSearchParams(window.location.search).get('model');
   const quoteNote = document.getElementById('quoteNote');
   if (requestedModel && quoteNote && !quoteNote.value) {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-11-04",
   "products": [
     {
       "id": "lsf130",
@@ -363,7 +363,58 @@
       "imageWidth": 1774,
       "imageHeight": 887,
       "imageAlt": "LS0213 — 2,13 inç elektronik raf etiketi ön görünümü",
-      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf",
+      "detailUrl": "2-13-inc-elektronik-raf-etiketi.html",
+      "detailContent": {
+        "title": "2,13 İnç Elektronik Raf Etiketi LS0213 | FI Teknoloji",
+        "description": "WINTEC LS0213 2,13 inç elektronik raf etiketi: 250 × 122 piksel, değiştirilebilir pil, IP54 ve isteğe bağlı NFC. Teknik özellikleri ve seçim koşullarını inceleyin.",
+        "heading": "2,13 inç elektronik raf etiketi LS0213",
+        "intro": "LS0213, ürün adı ve fiyat bilgisini kompakt bir ekranda sunmak için değerlendirilen 2,13 inç elektronik raf etiketidir. 68,6 mm genişliğindeki gövdesi, 250 × 122 piksel ekranı ve değiştirilebilir piliyle raf başına çok sayıda ürün bulunan yerleşimlerde seçenek oluşturur. Etiket boyutu; raf aralığı, okunacak bilgi ve montaj biçimiyle birlikte seçilir.",
+        "highlights": [
+          "Çözünürlük",
+          "Ekran alanı",
+          "Koruma sınıfı"
+        ],
+        "selectionHeading": "Kompakt etiketi hangi rafta seçmelisiniz?",
+        "selection": [
+          {
+            "heading": "Ürün aralığını ölçün",
+            "text": "Yan yana farklı ürünlerin bulunduğu raflarda gövde genişliğini ürün aralığıyla karşılaştırın. Market veya akaryakıt marketindeki paketli ürünlerde, 2,13 inç etiketin doğru ürüne karşılık gelecek şekilde konumlandırılması gerekir."
+          },
+          {
+            "heading": "Fiyatı okunabilir tutun",
+            "text": "48,5 × 23,7 mm ekran alanında ürün adı, satış fiyatı ve gerekli ek bilgiler için bir şablon hazırlanır. Uzun ürün adları veya birden çok fiyat alanı gerekiyorsa tasarımı gerçek boyutta kontrol edin; daha geniş ekranlı modelleri de değerlendirin."
+          },
+          {
+            "heading": "Tutucuyu rafla eşleştirin",
+            "text": "Ray, klips veya stand seçimini yalnızca ekranın inç ölçüsüne göre yapmayın. LS0213 gövdesinin bağlantı biçimi, raf kenarı ve etiketin bakış açısı birlikte incelenerek uygun aksesuar belirlenir."
+          }
+        ],
+        "conditions": [
+          "Katalog çalışma sıcaklığını 0–40 °C olarak belirtir. Eksi sıcaklıktaki dondurucu uygulamaları için bu model yerine çalışma aralığı uygun bir dondurucu modeli değerlendirilir.",
+          "10 yıllık pil ömrü, günde 2 güncelleme koşuluyla verilen üretici değeridir. Güncelleme sıklığı ve kullanım koşulları gerçek süreyi etkiler.",
+          "NFC isteğe bağlıdır. Üç veya dört renkli ekran seçeneği ile 7 renk LED göstergesi ayrı özelliklerdir; sipariş varyantı teklifte belirtilir."
+        ],
+        "questions": [
+          {
+            "question": "2,13 inç etiket için hangi bilgiler hazırlanmalı?",
+            "answer": "Ürün adı, barkod veya stok kodu, satış fiyatı ve gösterilecek diğer alanlar belirlenmelidir. Tasarımda birim fiyat veya kampanya bilgisi gerekiyorsa bu alanların veri kaynağı ve gerçek ekran boyutundaki okunabilirliği birlikte kontrol edilir."
+          },
+          {
+            "question": "LS0213 tek başına fiyatı günceller mi?",
+            "answer": "Fiyat güncellemesi, etiketle uyumlu gateway ve yönetim yazılımı üzerinden planlanır. Mevcut ERP/POS programının ürün ve fiyat verisine erişim yöntemi entegrasyon incelemesinde netleştirilir."
+          },
+          {
+            "question": "2,13 mü, 2,90 inç mi seçmeliyim?",
+            "answer": "Raf üzerinde ayrılabilen alan ve gösterilecek bilgi miktarı belirleyicidir. Kısa ürün adı ve fiyat odaklı bir şablonu 2,13 inçte değerlendirebilirsiniz; daha geniş bir yatay alan gerektiğinde LS0290 ile karşılaştırın."
+          }
+        ],
+        "relatedProducts": [
+          "ls0290",
+          "ls0420",
+          "ap2400s-6-0"
+        ]
+      }
     },
     {
       "id": "ed0213c",
@@ -727,7 +778,58 @@
       "imageWidth": 421,
       "imageHeight": 206,
       "imageAlt": "LS0290 — katalog ürün görseli",
-      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf",
+      "detailUrl": "2-90-inc-elektronik-raf-etiketi.html",
+      "detailContent": {
+        "title": "2,90 İnç Elektronik Raf Etiketi LS0290 | FI Teknoloji",
+        "description": "WINTEC LS0290 2,90 inç dijital raf etiketi: 296 × 128 piksel, 66,9 × 29 mm ekran alanı, IP54 ve değiştirilebilir pil. Özellikleri inceleyin, teklif isteyin.",
+        "heading": "2,90 inç elektronik raf etiketi LS0290",
+        "intro": "LS0290, 296 × 128 piksel çözünürlüğe sahip yatay bir dijital raf etiketidir. 66,9 × 29 mm ekran alanı; ürün adı, fiyat ve uygun bir şablonla ek ürün bilgisinin birlikte yerleştirilmesi için değerlendirilir. Raf genişliği ve okuma mesafesi, 2,13 ve 2,90 inç modeller arasında seçim yaparken birlikte incelenir.",
+        "highlights": [
+          "Çözünürlük",
+          "Ekran alanı",
+          "Koruma sınıfı"
+        ],
+        "selectionHeading": "Yatay ekran alanını ürününüze göre planlayın",
+        "selection": [
+          {
+            "heading": "Uzun ürün adlarını deneyin",
+            "text": "Ürün adı veya varyant bilgisinin uzun olduğu raflarda, metnin satır sayısını ve fiyatın büyüklüğünü gerçek ekran üzerinde kontrol edin. 2,90 inç model seçimi, hazırlanan şablonun raftaki okunabilirliğiyle doğrulanmalıdır."
+          },
+          {
+            "heading": "Fiyat alanlarını belirleyin",
+            "text": "Satış fiyatı, birim fiyat ve kampanya gibi alanların hangilerinin gösterileceğini önceden netleştirin. Market, şarküteri veya farklı ürün gruplarının bulunduğu reyonlarda gerekli verilerin mevcut yazılımdan alınabilmesi de önemlidir."
+          },
+          {
+            "heading": "Raf ve montaj ölçülerini karşılaştırın",
+            "text": "88,4 × 42,5 × 12,5 mm gövde ölçüsünü raf kenarı ve ürün aralığıyla birlikte değerlendirin. Etiket tutucusunun gövdeye uyumu ve müşterinin etikete baktığı açı montaj planının parçasıdır."
+          }
+        ],
+        "conditions": [
+          "LS0290 için katalogda IP54 ve 0–40 °C çalışma sıcaklığı verilir. Dondurucu içi veya farklı çevre koşullarında modelin uygunluğu ayrıca kontrol edilir.",
+          "Pil, 2 × CR2450 1200 mAh olarak belirtilir ve değiştirilebilir. 10 yıllık üretici pil ömrü değeri günde 2 güncellemeye dayanır; işletmenizin kullanımına göre değişebilir.",
+          "Siyah/beyaz/kırmızı ve siyah/beyaz/kırmızı/sarı ekran seçenekleri bulunur. 7 renkli LED göstergesi, ekranın yedi renk göstereceği anlamına gelmez. NFC seçeneği sipariş aşamasında teyit edilir."
+        ],
+        "questions": [
+          {
+            "question": "LS0290 ile LS0213 arasındaki temel seçim farkı nedir?",
+            "answer": "LS0290 daha geniş bir yatay ekran alanına sahiptir; buna karşılık raf üzerinde daha fazla gövde genişliği gerektirir. Aynı ürün şablonunu iki ölçüde karşılaştırarak ürün adı, fiyat büyüklüğü ve montaj aralığı için uygun seçimi yapabilirsiniz."
+          },
+          {
+            "question": "Kampanya ve birim fiyatı gösterebilir miyim?",
+            "answer": "Gösterilecek alanlar etiket şablonunda planlanır. İstenen verinin ERP/POS veya kullanılacak başka veri kaynağında bulunması, doğru ürüne eşlenmesi ve ekranda okunabilir olması birlikte kontrol edilir."
+          },
+          {
+            "question": "Mevcut tutucularım 2,90 inç modele uyar mı?",
+            "answer": "Ekran boyutu tek başına tutucu uyumunu belirlemez. Etiketin arka bağlantısı, gövde ölçüsü ve raf profili birlikte incelenir. Mevcut tutucunun modelini veya fotoğrafını teklif talebine ekleyebilirsiniz."
+          }
+        ],
+        "relatedProducts": [
+          "ls0213",
+          "ls0420",
+          "ap2400s-6-0"
+        ]
+      }
     },
     {
       "id": "ls0350",
@@ -1000,7 +1102,58 @@
       "imageWidth": 174,
       "imageHeight": 160,
       "imageAlt": "LS0420 — katalog ürün görseli",
-      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf",
+      "detailUrl": "4-20-inc-elektronik-raf-etiketi.html",
+      "detailContent": {
+        "title": "4,20 İnç Elektronik Raf Etiketi LS0420 | FI Teknoloji",
+        "description": "WINTEC LS0420 4,20 inç elektronik raf etiketi: 400 × 300 piksel, 84,8 × 63,6 mm ekran, IP54 ve isteğe bağlı NFC. Teknik tabloyu ve kullanım koşullarını inceleyin.",
+        "heading": "4,20 inç elektronik raf etiketi LS0420",
+        "intro": "LS0420, 400 × 300 piksel ekranıyla fiyatın yanında daha fazla ürün bilgisinin yerleştirileceği tasarımlar için değerlendirilen 4,20 inç elektronik etikettir. 84,8 × 63,6 mm görüntü alanı; reyon, tezgâh veya stand yerleşimlerinde ürün adı ve fiyatın okunabilirliğini birlikte planlamaya olanak verir. Montaj ve veri alanları işletmenin kullanımına göre belirlenir.",
+        "highlights": [
+          "Çözünürlük",
+          "Ekran alanı",
+          "Koruma sınıfı"
+        ],
+        "selectionHeading": "Geniş ekranı bilgi ihtiyacınıza göre değerlendirin",
+        "selection": [
+          {
+            "heading": "Reyon ve tezgâh sunumu",
+            "text": "Şarküteri, pastane veya ürün bilgisinin öne çıkarılacağı bir reyonda ürün adı ve fiyat için ayrılacak alanı planlayın. Masaüstü veya raf montajı için seçilen standın LS0420 gövdesiyle uyumu kontrol edilir."
+          },
+          {
+            "heading": "Ek bilgi ve QR yerleşimi",
+            "text": "İçerik, birim fiyat veya QR kod gibi alanlar gösterilecekse şablonu gerçek boyutta deneyin. QR kodun taranabilirliği; kodun içeriği, yerleşimi, boyutu ve okuma koşullarıyla birlikte doğrulanmalıdır."
+          },
+          {
+            "heading": "Gövdeye yeterli alan bırakın",
+            "text": "96,5 × 86,5 × 13,1 mm gövde, küçük raf etiketlerinden farklı bir montaj alanı gerektirir. Ürünü kapatmadan yerleştirme, müşterinin bakış açısı ve raf ya da tezgâhın temizlenme biçimi birlikte değerlendirilir."
+          }
+        ],
+        "conditions": [
+          "Bu sayfa LS0420 modeline aittir; IP68 sınıfındaki LS0420W farklı bir modeldir. LS0420 için katalogda IP54 ve 0–40 °C çalışma aralığı belirtilir.",
+          "Katalogda 1 × CR2450-3p 1800 mAh pil ve değiştirilebilir pil bilgisi bulunur. 10 yıllık pil ömrü, günde 2 güncelleme koşuluyla verilen üretici değeridir.",
+          "Ekran renk seçeneği, isteğe bağlı NFC ve kullanılacak aksesuar siparişte netleştirilir. 7 renk LED göstergesi, ekran renklerinden ayrı bir özelliktir."
+        ],
+        "questions": [
+          {
+            "question": "LS0420 soğuk veya ıslak reyonda kullanılabilir mi?",
+            "answer": "Uygulama yerinin sıcaklık, nem ve temizlik koşulları katalog değerleriyle karşılaştırılmalıdır. LS0420 için verilen 0–40 °C aralığı eksi sıcaklıklardaki dondurucuları kapsamaz. IP54 olan bu model ile IP68 sınıfındaki LS0420W birbirine karıştırılmamalıdır."
+          },
+          {
+            "question": "Ürün künyesi veya QR kod göstermek için ne gerekir?",
+            "answer": "Gösterilecek bilgilerin doğru kaynaktan alınması, etiketle doğru ürünün eşlenmesi ve okunabilir bir şablon hazırlanması gerekir. HKS gibi bir kullanımda veri kaynağı, entegrasyon ve bilgi alanlarının kapsamı ayrıca değerlendirilir."
+          },
+          {
+            "question": "Büyük ekran seçmek fiyatı da değiştirir mi?",
+            "answer": "Etiket modeli ve adedi, tutucu, gateway ve yazılım kapsamıyla birlikte fiyatlandırılır. 4,20 inç model için adet ve montaj biçimini belirtmeniz, diğer boyutlarla aynı proje kapsamı üzerinden teklif karşılaştırmanıza yardımcı olur."
+          }
+        ],
+        "relatedProducts": [
+          "ls0213",
+          "ls0290",
+          "ap2400s-6-0"
+        ]
+      }
     },
     {
       "id": "ls0420w",
@@ -1904,7 +2057,58 @@
       "imageWidth": 829,
       "imageHeight": 597,
       "imageAlt": "AP2400S-6.0 — katalog ürün görseli",
-      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf"
+      "sourceDocument": "catalogs/Wintec_Donanim_Teknik_Ozellikleri_TR.pdf",
+      "detailUrl": "ap2400s-6-0-esl-gateway.html",
+      "detailContent": {
+        "title": "AP2400S-6.0 ESL Gateway ve Erişim Noktası | FI Teknoloji",
+        "description": "WINTEC AP2400S-6.0 ESL gateway: PoE veya DC 12 V besleme, Linux ve katalogda 25 m kapsama yarıçapı. Teknik özellikleri ve kapsama planlamasını inceleyin.",
+        "heading": "AP2400S-6.0 ESL gateway",
+        "intro": "AP2400S-6.0, elektronik raf etiketi altyapısında kullanılan Linux tabanlı erişim noktasıdır. Yönetim yazılımından hazırlanan güncellemelerin uyumlu etiketlere iletilmesi için mağazanın ağ ve kapsama planına dahil edilir. PoE veya DC 12 V / 2 A besleme seçenekleri, kurulum noktasındaki altyapıyla birlikte değerlendirilir.",
+        "highlights": [
+          "Güç beslemesi",
+          "Kapsama yarıçapı",
+          "Ağ protokolleri"
+        ],
+        "selectionHeading": "Gateway yerini mağaza planıyla belirleyin",
+        "selection": [
+          {
+            "heading": "Kapsama alanını değerlendirin",
+            "text": "Kaynak katalog 25 m kapsama yarıçapı belirtir. Bu değer, her mağazada aynı sonucu garanti eden bir mesafe değildir. Katlar, duvarlar, metal raf ve dolaplar ile diğer kablosuz cihazlar dikkate alınarak etiket yerleşimi incelenir."
+          },
+          {
+            "heading": "Ağ ve güç noktasını hazırlayın",
+            "text": "PoE veya DC 12 V / 2 A besleme yöntemine göre kablolama ve kurulum noktası planlanır. Katalogda TCP/IP, HTTP ve DHCP ağ protokolleri bulunur. Ağ erişimi ve kullanılan sistemin bağlantı gereksinimleri kurulum öncesi netleştirilir."
+          },
+          {
+            "heading": "Etiket ve yazılım uyumunu doğrulayın",
+            "text": "Gateway seçimi yalnızca kablosuz frekansın aynı olmasına dayanmaz. Kullanılacak etiketlerin tam model kodları, yönetim yazılımı ve güncelleme iş akışı birlikte kontrol edilerek uyumlu sistem planlanır."
+          }
+        ],
+        "conditions": [
+          "25 m, kaynak katalogda belirtilen kapsama yarıçapıdır. Kesin kapsama ve gereken cihaz adedi mağaza yerleşimi üzerinden değerlendirilir; kurulumda etiketlerin iletişimi kontrol edilir.",
+          "PoE ve DC besleme alternatiflerdir. Güç ekipmanının teklife dahil olup olmadığı, montaj yeri ve gerekli kablolama ayrıca belirtilir.",
+          "Etiket adedi, güncelleme sıklığı ve şube yapısı kapasite planlamasında birlikte değerlendirilir. Farklı etiket veya yazılım sistemlerinin otomatik olarak uyumlu olduğu varsayılmaz."
+        ],
+        "questions": [
+          {
+            "question": "Bir mağaza için tek gateway yeterli mi?",
+            "answer": "Mağazanın alanı tek başına yeterli ölçüt değildir. Katlar, raf ve dolapların yerleşimi, etiketlerin konumu ve planlanan güncelleme yükü birlikte değerlendirilir. Gerekli cihaz sayısı kapsama ve kapasite incelemesiyle belirlenir."
+          },
+          {
+            "question": "25 metre değeri tam olarak neyi ifade eder?",
+            "answer": "Üretici kataloğunda verilen değer kapsama yarıçapıdır. Gerçek kurulumda engeller ve kablosuz ortam sonucu etkileyebilir; bu nedenle mağazanın her noktasında garanti edilen bir mesafe veya metrekare hesabı olarak kullanılmamalıdır."
+          },
+          {
+            "question": "Gateway fiyatına kurulum ve yazılım dahil mi?",
+            "answer": "Donanım, güç ekipmanı, ağ kablolaması, montaj, yönetim yazılımı ve ERP/POS entegrasyonu ayrı kalemler olabilir. Hangilerinin dahil olduğu, seçilen sistem ve yazılı teklif kapsamı üzerinden netleştirilir."
+          }
+        ],
+        "relatedProducts": [
+          "ls0213",
+          "ls0290",
+          "ls0420"
+        ]
+      }
     },
     {
       "id": "nap-3825-x",
