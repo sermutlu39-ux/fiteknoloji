@@ -78,7 +78,7 @@ def card(p, page='urunler.html'):
         source = f'<a class="catalog-source" href="{esc(p["detailPage"])}">Ürün grubunu incele →</a>'
     notes = ''.join(f'<p class="catalog-note">{esc(n)}</p>' for n in p.get('notes', []))
     quote = quote_url(p)
-    permalink = p.get('detailUrl') or page + '?' + urlencode({'kategori':p['category']}) + '#' + p['id']
+    permalink = p.get('detailUrl') or page + '#' + p['id']
     heading = f'<a href="{esc(p["detailUrl"])}">{esc(title)}</a>' if p.get('detailUrl') else esc(title)
     link_text = 'Detaylar →' if p.get('detailUrl') else '↗'
     link_label = f'{title} teknik özellikleri ve kullanım bilgileri' if p.get('detailUrl') else f'{title} ürün bağlantısı'
