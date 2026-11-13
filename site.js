@@ -53,6 +53,8 @@
   const message = () => {
     const data = new FormData(form);
     return ['Merhaba FI Teknoloji, teklif almak istiyorum.', '',
+      'Ad Soyad: ' + String(data.get('contactName') || '').trim(),
+      'Telefon: ' + String(data.get('phone') || '').trim(),
       'Firma: ' + String(data.get('company') || '').trim(),
       'Ürün grubu: ' + data.get('product'),
       'Sektör: ' + data.get('sector'),
@@ -63,9 +65,13 @@
   form.addEventListener('submit', event => {
     event.preventDefault();
     if (!form.reportValidity()) return;
-    const subject = 'FI Teknoloji Teklif Talebi - ' + document.getElementById('companyName').value.trim();
-    feedback.textContent = 'Talebiniz hazır. E-posta uygulamanızda kontrol edip gönderin. Açılmadıysa “talebi kopyalayın” seçeneğini kullanabilirsiniz.';
-    window.location.href = 'mailto:info@fiteknoloji.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(message());
+    feedback.textContent = 'Talebiniz WhatsApp’ta hazırlandı. Göndermek için WhatsApp içindeki gönder düğmesini kullanın.';
+    window.location.href = 'https://wa.me/905365733555?text=' + encodeURIComponent(message());
+  });
+  document.getElementById('emailQuote')?.addEventListener('click', () => {
+    if (!form.reportValidity()) return;
+    window.location.href = 'mailto:info@fiteknoloji.com?subject=' + encodeURIComponent('FI Teknoloji Teklif Talebi') + '&body=' + encodeURIComponent(message());
+    feedback.textContent = 'E-posta uygulamanızda talebi kontrol edip gönderin.';
   });
   document.getElementById('copyQuote').addEventListener('click', async () => {
     if (!form.reportValidity()) return;
