@@ -62,3 +62,6 @@ header,.site-header{position:sticky;top:0;z-index:80;border-bottom:1px solid var
 
 
 .reference-card--kubbe{border-top-color:#d3b785}.reference-card--aytac{border-top-color:#8d1b21}.reference-card--aytac .reference-logo img{border-radius:50%}
+
+/* Sector guide content and responsive examples. */
+.sector-guide section{margin-top:36px}.sector-guide h2{margin:0 0 12px}.sector-guide h3{margin:22px 0 8px}.sector-guide p,.sector-guide li{line-height:1.7}.sector-guide ol,.sector-guide ul{padding-left:1.35rem}.sector-guide li+li{margin-top:8px}.sector-guide a:not(.button){color:var(--cyan);text-decoration:underline}.sector-guide figure{width:min(100%,440px);margin:30px 0}.sector-guide figure img{display:block;width:100%;height:auto;border-radius:16px}.sector-guide figcaption{margin-top:8px;color:var(--muted);font-size:13px}.sector-guide .table-scroll{margin-top:16px}
